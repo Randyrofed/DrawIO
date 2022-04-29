@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T14:12:12.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="C4Cb-GLB9l825bz_LHGr" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T14:29:00.538Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="uKPa8-5iVU7DzT8JM4Rz" version="17.5.0" type="github">
   <diagram id="rQbXUBkz96H-W-RaVoaa" name="Алгоритм">
-    <mxGraphModel dx="2039" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2098" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,14 +262,177 @@
         <mxCell id="zP0uGg4A8xvc0My2Uz2D-100" value="15 мин прогнозы нагрузки + солнце (продумать)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="300" y="-10" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.804;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;elbow=vertical;entryPerimeter=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-1" target="I534D7FVMnb1_dln_VQ3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I534D7FVMnb1_dln_VQ3-1" value="АРМ ФЭС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="1130" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-2" target="I534D7FVMnb1_dln_VQ3-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1580" y="375" />
+              <mxPoint x="1580" y="390" />
+              <mxPoint x="1570" y="410" />
+              <mxPoint x="1600" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="I534D7FVMnb1_dln_VQ3-2" value="АИУС ПТК AMIGO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-3" target="I534D7FVMnb1_dln_VQ3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I534D7FVMnb1_dln_VQ3-3" value="СУ СНЭЭ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="540" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.166;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1520" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1590" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-5" value="ExternalGrid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="-99" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="21" as="sourcePoint" />
+            <mxPoint x="1920" y="21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-8" value="Invertor_1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="91" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-10" value="Invertor_N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="91" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1690" y="21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-12" value="Load" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="91" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-14" value="EESS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="91" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-15" value="&#xa;chargeEfficiency - 97 %&#xa;dischargeEfficiency - 97%&#xa;ratedCapacity - 326,8 kW*h&#xa;ratedPowerInput - 312,5 kW&#xa;ratedPowerOutput - 312,5 kW&#xa;depthOfDischarge - 90%&#xa;InverterApparentPower - 312,5 kVA&#xa;" style="text;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="13.5" width="160" height="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-16" value="485,1 кВт, общее количество&amp;nbsp; ФЭМ 1540 шт." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="180" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-17" value="&lt;ul style=&quot;list-style-type: square&quot;&gt;&lt;li&gt;SG10KTL-M - 1 шт. (10 кВт)&lt;/li&gt;&lt;li&gt;SG12KTL-M - 2 шт. (24 кВт)&lt;/li&gt;&lt;li&gt;SG20KTL-M - 3 шт. (60 кВт)&lt;/li&gt;&lt;li&gt;SG30KTL-M - 7 шт. (210 кВт)&lt;/li&gt;&lt;li&gt;SG50KTL-M - 2 шт. (100 кВт)&lt;/li&gt;&lt;li&gt;SG80KTL-M - 1 шт. (80 кВт)&lt;/li&gt;&lt;li&gt;Итого - 484 кВт&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-18" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1400" y="81" as="sourcePoint" />
+            <mxPoint x="1400" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-19" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1540" y="81" as="sourcePoint" />
+            <mxPoint x="1540" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-20" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1830" y="81" as="sourcePoint" />
+            <mxPoint x="1830" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-21" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1703" y="81" as="sourcePoint" />
+            <mxPoint x="1703" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-22" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1530" as="sourcePoint" />
+            <mxPoint x="1530" y="-50.000000000000114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-23" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1850" y="81" as="sourcePoint" />
+            <mxPoint x="1850" y="31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-24" value="Мощность нельзя выдавать в сеть" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="-49" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-25" value="Краснодарский край, Анапа&lt;br&gt;3ЦК, 670-10000 кВт, 0,4 кВ" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="-109" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-26" value="Структурная схема" style="text;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1170" y="-109" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-28" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1600" as="sourcePoint" />
+            <mxPoint x="1600" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="81" width="290" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-29" value="Шкаф №1, 5 0,4 кВ БКТП 345" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="-40" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-31" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;АРМ ФЭС&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="141" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="81" width="140" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-33" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;СУ СНЭЭ&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="140" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-36" value="1) P,Q (шкаф №1, 5 БКТП 345)&lt;br&gt;2) Pсумм, Qсумм, уставка активной мощности, уставка режим регулирования" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="320" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-39" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="I534D7FVMnb1_dln_VQ3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1460" y="230" as="sourcePoint" />
+            <mxPoint x="1580" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-40" value="Прогноз ЧПН, ПЧПН&lt;br&gt;Прогноз нагрузки и генерации" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="242" width="175" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-42" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="I534D7FVMnb1_dln_VQ3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1520" y="230" as="sourcePoint" />
+            <mxPoint x="1580" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I534D7FVMnb1_dln_VQ3-43" value="Данные для расчета эконом. параметров" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1525" y="242" width="175" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

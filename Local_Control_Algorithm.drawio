@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T14:55:48.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="cdirGpDEqVUqGbh9UwGc" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-29T16:06:13.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dunoHlQ41i4NTRu17Orv" version="17.5.0" type="github">
   <diagram id="rQbXUBkz96H-W-RaVoaa" name="Алгоритм">
-    <mxGraphModel dx="2514" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2633" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,7 +96,7 @@
         <mxCell id="zP0uGg4A8xvc0My2Uz2D-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-43" target="zP0uGg4A8xvc0My2Uz2D-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-43" value="delta&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="zP0uGg4A8xvc0My2Uz2D-43" value="delta&amp;gt;delta_threshold" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="170" y="281" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zP0uGg4A8xvc0My2Uz2D-47" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">

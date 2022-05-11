@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-29T16:06:13.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dunoHlQ41i4NTRu17Orv" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-11T10:17:24.608Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Eej67Fj1w9NGK6tOkHgX" version="18.0.2" type="github">
   <diagram id="rQbXUBkz96H-W-RaVoaa" name="Алгоритм">
-    <mxGraphModel dx="2633" dy="1993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1535" dy="1466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,194 +262,194 @@
         <mxCell id="zP0uGg4A8xvc0My2Uz2D-100" value="15 мин прогнозы нагрузки + солнце (продумать)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="300" y="-10" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.804;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;elbow=vertical;entryPerimeter=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-1" target="I534D7FVMnb1_dln_VQ3-2">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.804;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;elbow=vertical;entryPerimeter=0;" parent="1" source="I534D7FVMnb1_dln_VQ3-1" target="I534D7FVMnb1_dln_VQ3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-1" value="АСДУ ФЭС" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-1" value="АСДУ ФЭС" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1840" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-2" target="I534D7FVMnb1_dln_VQ3-3">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="I534D7FVMnb1_dln_VQ3-2" target="I534D7FVMnb1_dln_VQ3-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1580" y="375" />
-              <mxPoint x="1580" y="390" />
-              <mxPoint x="1570" y="410" />
-              <mxPoint x="1600" y="420" />
+              <mxPoint x="2290" y="285" />
+              <mxPoint x="2290" y="300" />
+              <mxPoint x="2280" y="320" />
+              <mxPoint x="2310" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#FF3333;endArrow=none;endFill=0;elbow=vertical;startArrow=classic;startFill=1;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-2">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#FF3333;endArrow=none;endFill=0;elbow=vertical;startArrow=classic;startFill=1;" parent="1" source="I534D7FVMnb1_dln_VQ3-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1680" y="360" as="targetPoint" />
+            <mxPoint x="2390" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-2" value="АИУС ПТК AMIGO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-2" value="АИУС ПТК AMIGO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2140" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-3" target="I534D7FVMnb1_dln_VQ3-2">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.667;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="I534D7FVMnb1_dln_VQ3-3" target="I534D7FVMnb1_dln_VQ3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-3" value="СУ СНЭЭ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="540" width="280" height="60" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-3" value="СУ СНЭЭ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2150" y="450" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.166;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-5">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.166;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="I534D7FVMnb1_dln_VQ3-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1520" y="20" as="targetPoint" />
+            <mxPoint x="2230" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-5">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="I534D7FVMnb1_dln_VQ3-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1590" y="20" as="targetPoint" />
+            <mxPoint x="2300" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-5" value="ExternalGrid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="-99" width="120" height="40" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-5" value="ExternalGrid" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2210" y="-189" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-6" value="" style="endArrow=none;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1380" y="21" as="sourcePoint" />
-            <mxPoint x="1920" y="21" as="targetPoint" />
+            <mxPoint x="2090" y="-69" as="sourcePoint" />
+            <mxPoint x="2630" y="-69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-8">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" parent="1" source="I534D7FVMnb1_dln_VQ3-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1410" y="21" as="targetPoint" />
+            <mxPoint x="2120" y="-69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-8" value="Invertor_1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="91" width="120" height="40" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-8" value="Invertor_1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2060" y="1" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-10">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" parent="1" source="I534D7FVMnb1_dln_VQ3-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1550" y="21" as="targetPoint" />
+            <mxPoint x="2260" y="-69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-10" value="Invertor_N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="91" width="120" height="40" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-10" value="Invertor_N" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-12">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" parent="1" source="I534D7FVMnb1_dln_VQ3-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1690" y="21" as="targetPoint" />
+            <mxPoint x="2400" y="-69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-12" value="Load" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="91" width="120" height="40" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-12" value="Load" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2340" y="1" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" edge="1" parent="1" source="I534D7FVMnb1_dln_VQ3-14">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=1;" parent="1" source="I534D7FVMnb1_dln_VQ3-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1840" y="21" as="targetPoint" />
+            <mxPoint x="2550" y="-69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-14" value="EESS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="91" width="120" height="40" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-14" value="EESS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2490" y="1" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-15" value="&#xa;chargeEfficiency - 97 %&#xa;dischargeEfficiency - 97%&#xa;ratedCapacity - 326,8 kW*h&#xa;ratedPowerInput - 312,5 kW&#xa;ratedPowerOutput - 312,5 kW&#xa;depthOfDischarge - 90%&#xa;InverterApparentPower - 312,5 kVA&#xa;" style="text;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="13.5" width="160" height="127.5" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-15" value="&#xa;chargeEfficiency - 97 %&#xa;dischargeEfficiency - 97%&#xa;ratedCapacity - 326,8 kW*h&#xa;ratedPowerInput - 312,5 kW&#xa;ratedPowerOutput - 312,5 kW&#xa;depthOfDischarge - 90%&#xa;InverterApparentPower - 312,5 kVA&#xa;" style="text;" parent="1" vertex="1">
+          <mxGeometry x="2650" y="-76.5" width="160" height="127.5" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-16" value="485,1 кВт, общее количество&amp;nbsp; ФЭМ 1540 шт." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="180" width="310" height="30" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-16" value="485,1 кВт, общее количество&amp;nbsp; ФЭМ 1540 шт." style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2060" y="90" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-17" value="&lt;ul style=&quot;list-style-type: square&quot;&gt;&lt;li&gt;SG10KTL-M - 1 шт. (10 кВт)&lt;/li&gt;&lt;li&gt;SG12KTL-M - 2 шт. (24 кВт)&lt;/li&gt;&lt;li&gt;SG20KTL-M - 3 шт. (60 кВт)&lt;/li&gt;&lt;li&gt;SG30KTL-M - 7 шт. (210 кВт)&lt;/li&gt;&lt;li&gt;SG50KTL-M - 2 шт. (100 кВт)&lt;/li&gt;&lt;li&gt;SG80KTL-M - 1 шт. (80 кВт)&lt;/li&gt;&lt;li&gt;Итого - 484 кВт&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1" width="220" height="140" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-17" value="&lt;ul style=&quot;list-style-type: square&quot;&gt;&lt;li&gt;SG10KTL-M - 1 шт. (10 кВт)&lt;/li&gt;&lt;li&gt;SG12KTL-M - 2 шт. (24 кВт)&lt;/li&gt;&lt;li&gt;SG20KTL-M - 3 шт. (60 кВт)&lt;/li&gt;&lt;li&gt;SG30KTL-M - 7 шт. (210 кВт)&lt;/li&gt;&lt;li&gt;SG50KTL-M - 2 шт. (100 кВт)&lt;/li&gt;&lt;li&gt;SG80KTL-M - 1 шт. (80 кВт)&lt;/li&gt;&lt;li&gt;Итого - 484 кВт&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1840" y="-89" width="220" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-18" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-18" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1400" y="81" as="sourcePoint" />
-            <mxPoint x="1400" y="31" as="targetPoint" />
+            <mxPoint x="2110" y="-9" as="sourcePoint" />
+            <mxPoint x="2110" y="-59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-19" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-19" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1540" y="81" as="sourcePoint" />
-            <mxPoint x="1540" y="31" as="targetPoint" />
+            <mxPoint x="2250" y="-9" as="sourcePoint" />
+            <mxPoint x="2250" y="-59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-20" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-20" value="" style="endArrow=classic;html=1;strokeColor=#FF3333;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1830" y="81" as="sourcePoint" />
-            <mxPoint x="1830" y="31" as="targetPoint" />
+            <mxPoint x="2540" y="-9" as="sourcePoint" />
+            <mxPoint x="2540" y="-59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-21" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-21" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1703" y="81" as="sourcePoint" />
-            <mxPoint x="1703" y="31" as="targetPoint" />
+            <mxPoint x="2413" y="-9" as="sourcePoint" />
+            <mxPoint x="2413" y="-59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-22" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-22" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1530" as="sourcePoint" />
-            <mxPoint x="1530" y="-50.000000000000114" as="targetPoint" />
+            <mxPoint x="2240" y="-90" as="sourcePoint" />
+            <mxPoint x="2240" y="-140.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-23" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-23" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1850" y="81" as="sourcePoint" />
-            <mxPoint x="1850" y="31" as="targetPoint" />
+            <mxPoint x="2560" y="-9" as="sourcePoint" />
+            <mxPoint x="2560" y="-59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-24" value="Мощность нельзя выдавать в сеть" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="-49" width="210" height="30" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-24" value="Мощность нельзя выдавать в сеть" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2410" y="-139" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-25" value="Краснодарский край, Анапа&lt;br&gt;3ЦК, 670-10000 кВт, 0,4 кВ" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="-109" width="160" height="30" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-25" value="Краснодарский край, Анапа&lt;br&gt;3ЦК, 670-10000 кВт, 0,4 кВ" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="-199" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-26" value="Структурная схема" style="text;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-109" width="310" height="30" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-26" value="Структурная схема" style="text;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1880" y="-199" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-28" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-28" value="" style="endArrow=none;html=1;strokeColor=#FF3333;startArrow=classic;startFill=1;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1600" as="sourcePoint" />
-            <mxPoint x="1600" y="-50" as="targetPoint" />
+            <mxPoint x="2310" y="-90" as="sourcePoint" />
+            <mxPoint x="2310" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="81" width="290" height="89" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="-9" width="290" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-29" value="Шкаф №1, 5 0,4 кВ БКТП 345" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="-40" width="170" height="30" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-29" value="Шкаф №1, 5 0,4 кВ БКТП 345" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2050" y="-130" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;АСДУ ФЭС&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="141" width="80" height="30" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;АСДУ ФЭС&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2230" y="51" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="81" width="140" height="89" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="2480" y="-9" width="140" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-33" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;СУ СНЭЭ&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="140" width="80" height="30" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-33" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;СУ СНЭЭ&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2520" y="50" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-36" value="1) P (шкаф №1, 5 БКТП 345)&lt;br&gt;2) 16 x Pсумм, уставка активной мощности, уставка режим регулирования" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="311" width="260" height="60" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-36" value="1) P (шкаф №1, 5 БКТП 345)&lt;br&gt;2) 16 x Pсумм, уставка активной мощности, уставка режим регулирования" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1870" y="221" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-39" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="I534D7FVMnb1_dln_VQ3-2">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-39" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" target="I534D7FVMnb1_dln_VQ3-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1460" y="230" as="sourcePoint" />
-            <mxPoint x="1580" y="250" as="targetPoint" />
+            <mxPoint x="2170" y="140" as="sourcePoint" />
+            <mxPoint x="2290" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-40" value="Прогноз ЧПН, ПЧПН&lt;br&gt;Прогноз нагрузки и генерации" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="242" width="175" height="39" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-40" value="Прогноз ЧПН, ПЧПН&lt;br&gt;Прогноз нагрузки и генерации" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1985" y="152" width="175" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-42" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="I534D7FVMnb1_dln_VQ3-2">
+        <mxCell id="I534D7FVMnb1_dln_VQ3-42" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" target="I534D7FVMnb1_dln_VQ3-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1520" y="230" as="sourcePoint" />
-            <mxPoint x="1580" y="220" as="targetPoint" />
+            <mxPoint x="2230" y="140" as="sourcePoint" />
+            <mxPoint x="2290" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-43" value="Данные для расчета эконом. параметров" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1525" y="242" width="175" height="39" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-43" value="Данные для расчета эконом. параметров" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2235" y="152" width="175" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-44" value="p_set (уставка СНЭЭ)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1664.5" y="440" width="131" height="30" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-44" value="p_set (уставка СНЭЭ)" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2374.5" y="350" width="131" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-49" value="&lt;table style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 12px&quot;&gt;&lt;tbody style=&quot;font-size: 12px&quot;&gt;&lt;tr style=&quot;font-size: 12px&quot;&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;EESS&lt;/td&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;p_current&lt;/td&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;Текущая активная мощность накопителя&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px&quot;&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;EESS&lt;/td&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;e_current&lt;/td&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;Текущая доступная энергоёмкость накопителя&lt;br&gt;&lt;br&gt;Циклы + u_dc&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="410" width="230" height="90" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-49" value="&lt;table style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 12px&quot;&gt;&lt;tbody style=&quot;font-size: 12px&quot;&gt;&lt;tr style=&quot;font-size: 12px&quot;&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;EESS&lt;/td&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;p_current&lt;/td&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;Текущая активная мощность накопителя&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;font-size: 12px&quot;&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;EESS&lt;/td&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;e_current&lt;/td&gt;&lt;td style=&quot;font-size: 12px&quot;&gt;Текущая доступная энергоёмкость накопителя&lt;br&gt;&lt;br&gt;Циклы + u_dc&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="1980" y="320" width="230" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-51" value="Мастер-данные (сеть, накопитель, СЭС)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="321" width="131" height="30" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-51" value="Мастер-данные (сеть, накопитель, СЭС)" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2340" y="231" width="131" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I534D7FVMnb1_dln_VQ3-52" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-align: justify&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;При достижении определенной уставки суммарного перетока мощности через Ввод1 0,4 кВ и Ввод2 0,4 кВ БКТП 345 АСДУ ФЭС&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;формирует управляющее воздействие на уменьшение значений выходного тока переменного напряжения 0,4 кВ, выдаваемого в сеть электроснабжения предприятия.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-align: justify&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Управляющее воздействие передается по сети АСДУ каждому инвертору, находящемуся&lt;br&gt;в работе. Инверторы в соответствии с параметром управляющей команды уменьшают&lt;br&gt;значение выходного тока в сеть предприятия, и, следовательно, - выдачу генерируемой фотоэлектрическим модулям электрической мощности. Что позволяет не&lt;br&gt;достигать перепроизводства электроэнергии станцией.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="-310" width="490" height="180" as="geometry" />
+        <mxCell id="I534D7FVMnb1_dln_VQ3-52" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-align: justify&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;При достижении определенной уставки суммарного перетока мощности через Ввод1 0,4 кВ и Ввод2 0,4 кВ БКТП 345 АСДУ ФЭС&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;формирует управляющее воздействие на уменьшение значений выходного тока переменного напряжения 0,4 кВ, выдаваемого в сеть электроснабжения предприятия.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-align: justify&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Управляющее воздействие передается по сети АСДУ каждому инвертору, находящемуся&lt;br&gt;в работе. Инверторы в соответствии с параметром управляющей команды уменьшают&lt;br&gt;значение выходного тока в сеть предприятия, и, следовательно, - выдачу генерируемой фотоэлектрическим модулям электрической мощности. Что позволяет не&lt;br&gt;достигать перепроизводства электроэнергии станцией.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF3333;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="-400" width="490" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

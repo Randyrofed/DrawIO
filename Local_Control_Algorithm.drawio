@@ -1,255 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-05-11T14:31:43.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="bNKS_QTqezc9K_gidOg7" version="18.0.2" type="github">
-  <diagram id="rQbXUBkz96H-W-RaVoaa" name="Алгоритм">
-    <mxGraphModel dx="4474" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-05-12T13:44:38.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="nnvkqGsWq0zG0YQtfZRi" version="18.0.2" type="github" pages="2">
+  <diagram id="rQbXUBkz96H-W-RaVoaa" name="Структурная схема">
+    <mxGraphModel dx="-325" dy="1816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-1" target="zP0uGg4A8xvc0My2Uz2D-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-1" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="180" y="111" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-4" target="zP0uGg4A8xvc0My2Uz2D-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-4" target="zP0uGg4A8xvc0My2Uz2D-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-4" value="&lt;span&gt;peak_hours_forecast &amp;gt; peak_hours_forecast_threshold&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="90" y="430" width="300" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-5" target="zP0uGg4A8xvc0My2Uz2D-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-10" y="590" />
-              <mxPoint x="-10" y="1135" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-5" target="zP0uGg4A8xvc0My2Uz2D-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-5" value="CurrentBatteryCharge &amp;gt;= e_max" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="90" y="550" width="300" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-7" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="170" y="510" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-10" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="170" y="630" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-11" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="10" y="490" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-16" value="Периодичность запуска 1 мин" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry y="-388.82" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-17" target="zP0uGg4A8xvc0My2Uz2D-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-17" value="Определение&lt;br&gt;ACS.ph_forecast_sequenctional_prob_sum" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="510" y="440" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-19" target="zP0uGg4A8xvc0My2Uz2D-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-19" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;&quot;&gt;Расчет уставки с учетом поправки на текущий заряд и &lt;/span&gt;&lt;font&gt;распределение&lt;/font&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;на последовательные часы&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;EESS.p_set &lt;/b&gt;&lt;font&gt;= EESS.p_discharge*((EESS.e_current - EESS.e_min)/EESS.e_nom) * EESS.cp_discharge * GRID.ph_forecast / ACS.ph_forecast_sequenctional_prob_sum&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="410" y="570" width="440" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-23" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="380" y="440" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-24" target="zP0uGg4A8xvc0My2Uz2D-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-24" target="zP0uGg4A8xvc0My2Uz2D-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-24" value="abs((EESS.p_current - EESS.p_set) / EESS.p_set) &amp;gt; ACS.eess_set_mismatch_limit" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="440" y="840" width="380" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-26" target="zP0uGg4A8xvc0My2Uz2D-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-26" value="Отправка уставки на накопитель" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="570" y="990" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-29" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="570" y="920" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-30" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="420" y="840" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-33" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="570" y="1120" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-39" target="zP0uGg4A8xvc0My2Uz2D-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-39" value="&lt;span style=&quot;text-align: left&quot;&gt;delta =&amp;nbsp; SolarGenerationFact&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-ActiveLoadFact -&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;GridPowerOutput&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="165" y="181" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-43" target="zP0uGg4A8xvc0My2Uz2D-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-43" target="Qy48FS5bYlg029Jx7id3-111" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="321" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-43" value="delta&amp;gt;delta_threshold" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="170" y="281" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-47" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="300" y="285" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-52" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="165" y="351" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-61" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240.00000000000023" y="770.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-61" value="Расчет времени заряда до полной емкости (из псевдопрогнозов?)" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="150" y="680" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-65" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="-140.25" as="sourcePoint" />
-            <mxPoint x="200" y="-260.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-66" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="-140.25" as="sourcePoint" />
-            <mxPoint x="370" y="-140.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-69" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="-190.25" as="sourcePoint" />
-            <mxPoint x="410" y="-190.25" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="-221.25" />
-              <mxPoint x="350" y="-211.25" />
-              <mxPoint x="380" y="-200.25" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-71" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="-150.25" as="sourcePoint" />
-            <mxPoint x="380" y="-150.25" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="-180.25" />
-              <mxPoint x="300" y="-280.25" />
-              <mxPoint x="330" y="-200.25" />
-              <mxPoint x="360" y="-170.25" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-73" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-70" y="-140.25" as="sourcePoint" />
-            <mxPoint x="-70" y="-260.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-74" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-70" y="-140.25" as="sourcePoint" />
-            <mxPoint x="130" y="-140.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-75" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-70" y="-237.82" as="sourcePoint" />
-            <mxPoint x="140" y="-237.82" as="targetPoint" />
-            <Array as="points">
-              <mxPoint y="-268.82" />
-              <mxPoint x="80" y="-258.82" />
-              <mxPoint x="110" y="-247.82" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-76" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-60" y="-150.25" as="sourcePoint" />
-            <mxPoint x="110" y="-150.25" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-10" y="-180.25" />
-              <mxPoint x="30" y="-239.82" />
-              <mxPoint x="60" y="-200.25" />
-              <mxPoint x="90" y="-170.25" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-77" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="-217.25" as="sourcePoint" />
-            <mxPoint x="300" y="-257.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-78" value="&quot;-&quot; delta Forecast" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-269.25" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-80" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="-229.82" as="sourcePoint" />
-            <mxPoint x="30" y="-264.82" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-82" value="Задача поглотить максимум солнечной энергии для последующего разряда&lt;br&gt;Тот случай, когда в ЧПН не нужно разряжать накопитель, а нужно выдать максимум солнца. Такое может быть, периодически выпадают ЧПН на 12 и 14 часы. В таком случае важно не выдать мощность в сеть. Разряд излишек мощности должен идти при минимальной активности" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="420" y="-239.25" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-83" value="Задача - эффективно зарядить накопитель и разрядить его в ЧПН" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="-218.82" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-84" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="295" y="-190.25" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-86" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="345" y="-170.25" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-87" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="270" y="-180.25" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-88" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="295" y="-190.25" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-89" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="345" y="-170.25" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-90" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="270" y="-180.25" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-91" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="25" y="-199.82" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-92" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="75" y="-179.82" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-93" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry y="-189.82" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="zP0uGg4A8xvc0My2Uz2D-94" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="805" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-94" value="Заряд накопителя обратно пропорционально прогнозным delta (положит. delta плохо), чем меньше тем лучше." style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="150" y="770" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-96" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;&quot;-&quot; delta&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="-239.82" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-97" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&quot;+&quot; delta&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="50" y="-298.82" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zP0uGg4A8xvc0My2Uz2D-100" value="Исходные данные - прогноз нагрузки и солнечной генерации (DeltaForecast)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="110" y="-60" width="380" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="I534D7FVMnb1_dln_VQ3-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.804;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;elbow=vertical;entryPerimeter=0;" parent="1" source="I534D7FVMnb1_dln_VQ3-1" target="I534D7FVMnb1_dln_VQ3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -439,76 +193,330 @@
         <mxCell id="I534D7FVMnb1_dln_VQ3-52" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-align: justify&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;При достижении определенной уставки суммарного перетока мощности через Ввод1 0,4 кВ и Ввод2 0,4 кВ БКТП 345 АСДУ ФЭС&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;формирует управляющее воздействие на уменьшение значений выходного тока переменного напряжения 0,4 кВ, выдаваемого в сеть электроснабжения предприятия.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-align: justify&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Управляющее воздействие передается по сети АСДУ каждому инвертору, находящемуся&lt;br&gt;в работе. Инверторы в соответствии с параметром управляющей команды уменьшают&lt;br&gt;значение выходного тока в сеть предприятия, и, следовательно, - выдачу генерируемой фотоэлектрическим модулям электрической мощности. Что позволяет не&lt;br&gt;достигать перепроизводства электроэнергии станцией.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="2120" y="-400" width="490" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Дневной режим (c 7-00 до 22-00)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="55" y="21" width="440" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Ночной режим (часы с 22-00 до 7-00)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="70" width="440" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-4" target="Qy48FS5bYlg029Jx7id3-5">
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="v-7XctFqMu8pgW4FaKzJ" name="Алгоритм">
+    <mxGraphModel dx="12860" dy="6470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OHreoiryxiBT3IkIbKO8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-2" target="OHreoiryxiBT3IkIbKO8-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-4" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-2" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="180" y="111" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-5" target="OHreoiryxiBT3IkIbKO8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-5" target="OHreoiryxiBT3IkIbKO8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-5" value="&lt;span&gt;peak_hours_forecast &amp;gt; peak_hours_forecast_threshold&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-8" target="OHreoiryxiBT3IkIbKO8-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="590" />
+              <mxPoint x="-10" y="1135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-8" target="OHreoiryxiBT3IkIbKO8-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-8" value="CurrentBatteryCharge &amp;gt;= e_max" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="90" y="550" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-9" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-10" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-11" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="10" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-12" value="Периодичность запуска 1 мин" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry y="-388.82" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-14" target="OHreoiryxiBT3IkIbKO8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-14" value="Определение&lt;br&gt;ACS.ph_forecast_sequenctional_prob_sum" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-16" target="OHreoiryxiBT3IkIbKO8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-16" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;&quot;&gt;Расчет уставки с учетом поправки на текущий заряд и &lt;/span&gt;&lt;font&gt;распределение&lt;/font&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;на последовательные часы&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;EESS.p_set &lt;/b&gt;&lt;font&gt;= EESS.p_discharge*((EESS.e_current - EESS.e_min)/EESS.e_nom) * EESS.cp_discharge * GRID.ph_forecast / ACS.ph_forecast_sequenctional_prob_sum&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="410" y="570" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-17" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-20" target="OHreoiryxiBT3IkIbKO8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-20" target="OHreoiryxiBT3IkIbKO8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-20" value="abs((EESS.p_current - EESS.p_set) / EESS.p_set) &amp;gt; ACS.eess_set_mismatch_limit" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="440" y="840" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-22" target="OHreoiryxiBT3IkIbKO8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-22" value="Отправка уставки на накопитель" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="570" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-23" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="570" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-24" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="420" y="840" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-25" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-27" target="OHreoiryxiBT3IkIbKO8-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-27" value="&lt;span style=&quot;text-align: left&quot;&gt;delta =&amp;nbsp; SolarGenerationFact&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;-ActiveLoadFact -&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&amp;nbsp;GridPowerOutput&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="165" y="181" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-30" target="OHreoiryxiBT3IkIbKO8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-30" target="OHreoiryxiBT3IkIbKO8-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-30" value="delta&amp;gt;delta_threshold" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="281" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-31" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="300" y="285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-32" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="165" y="351" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-34" value="Расчет времени заряда до полной емкости (из псевдопрогнозов?)" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="680" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-35" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="-140.25" as="sourcePoint" />
+            <mxPoint x="200" y="-260.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-36" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="-140.25" as="sourcePoint" />
+            <mxPoint x="370" y="-140.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-37" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="-190.25" as="sourcePoint" />
+            <mxPoint x="410" y="-190.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="-221.25" />
+              <mxPoint x="350" y="-211.25" />
+              <mxPoint x="380" y="-200.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-38" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="-150.25" as="sourcePoint" />
+            <mxPoint x="380" y="-150.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="-180.25" />
+              <mxPoint x="300" y="-280.25" />
+              <mxPoint x="330" y="-200.25" />
+              <mxPoint x="360" y="-170.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-39" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="-140.25" as="sourcePoint" />
+            <mxPoint x="-70" y="-260.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-40" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="-140.25" as="sourcePoint" />
+            <mxPoint x="130" y="-140.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-41" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="-237.8199999999997" as="sourcePoint" />
+            <mxPoint x="140" y="-237.8199999999997" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="-268.82" />
+              <mxPoint x="80" y="-258.82" />
+              <mxPoint x="110" y="-247.82" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-42" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="-150.25" as="sourcePoint" />
+            <mxPoint x="110" y="-150.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="-180.25" />
+              <mxPoint x="30" y="-239.82" />
+              <mxPoint x="60" y="-200.25" />
+              <mxPoint x="90" y="-170.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="-217.2499999999991" as="sourcePoint" />
+            <mxPoint x="300" y="-257.2499999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-44" value="&quot;-&quot; delta Forecast" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-269.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="-229.8199999999997" as="sourcePoint" />
+            <mxPoint x="30" y="-264.8199999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-46" value="Задача поглотить максимум солнечной энергии для последующего разряда&lt;br&gt;Тот случай, когда в ЧПН не нужно разряжать накопитель, а нужно выдать максимум солнца. Такое может быть, периодически выпадают ЧПН на 12 и 14 часы. В таком случае важно не выдать мощность в сеть. Разряд излишек мощности должен идти при минимальной активности" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-239.25" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-47" value="Задача - эффективно зарядить накопитель и разрядить его в ЧПН" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-218.82" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-48" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-190.25" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-49" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="345" y="-170.25" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-50" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-180.25" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-51" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-190.25" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-52" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="345" y="-170.25" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-53" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-180.25" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-54" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="25" y="-199.82" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-55" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-179.82" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-56" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry y="-189.82" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="805" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-58" value="Заряд накопителя обратно пропорционально прогнозным delta (положит. delta плохо), чем меньше тем лучше." style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="150" y="770" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-59" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;&quot;-&quot; delta&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-239.82" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-60" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&quot;+&quot; delta&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-298.82" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-61" value="Исходные данные - прогноз нагрузки и солнечной генерации (DeltaForecast)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-60" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-62" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Дневной режим (c 7-00 до 22-00)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="55" y="21" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-63" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Ночной режим (часы с 22-00 до 7-00)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-1430" y="70" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-65" target="OHreoiryxiBT3IkIbKO8-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHreoiryxiBT3IkIbKO8-65" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="129" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-5" target="Qy48FS5bYlg029Jx7id3-8">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-68" target="OHreoiryxiBT3IkIbKO8-71">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1480" y="339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-5" target="Qy48FS5bYlg029Jx7id3-24">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-68" target="OHreoiryxiBT3IkIbKO8-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-5" value="Для следующего дня peak_hours_forecast &amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-68" value="Для следующего дня peak_hours_forecast &amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1360" y="189" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-8" target="Qy48FS5bYlg029Jx7id3-9">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-71" target="OHreoiryxiBT3IkIbKO8-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-8" target="Qy48FS5bYlg029Jx7id3-12">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-71" target="OHreoiryxiBT3IkIbKO8-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-8" value="&lt;p style=&quot;line-height: 0;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;deltaForecast (интеграл для следующего дня)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;gt;= 0&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-71" value="&lt;p style=&quot;line-height: 0;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;deltaForecast (интеграл для следующего дня)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&amp;gt;= 0&lt;/span&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="279" width="280" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-9" target="Qy48FS5bYlg029Jx7id3-31">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-73" target="OHreoiryxiBT3IkIbKO8-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1510" y="614" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-9" value="Разрядка накопителя &#xa;до уровня e_min = e_max - deltaForecast (какой-то запас)" style="fontSize=10;opacity=50;spacing=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-73" value="Разрядка накопителя &#xa;до уровня e_min = e_max - deltaForecast (какой-то запас)" style="fontSize=10;opacity=50;spacing=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1680" y="479" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-11" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-74" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1570" y="389" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-12" target="Qy48FS5bYlg029Jx7id3-31">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-76" target="OHreoiryxiBT3IkIbKO8-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1775" y="614" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-12" value="Накопитель заряжается &#xa;до уровня e_night=e_max" style="fontSize=12;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-76" value="Накопитель заряжается &#xa;до уровня e_night=e_max" style="fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1850" y="474" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-14" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-77" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1400" y="189" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-24" target="Qy48FS5bYlg029Jx7id3-27">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-80" target="OHreoiryxiBT3IkIbKO8-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-24" target="Qy48FS5bYlg029Jx7id3-34">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-80" target="OHreoiryxiBT3IkIbKO8-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-24" value="deltaForecast (интеграл до первого часа &#xa;с вероятностью больше 0)&#xa;&gt;= 0" style="rhombus;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-80" value="deltaForecast (интеграл до первого часа &#xa;с вероятностью больше 0)&#xa;&gt;= 0" style="rhombus;fontFamily=Times New Roman;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="285" width="300" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="Qy48FS5bYlg029Jx7id3-27" target="Qy48FS5bYlg029Jx7id3-31" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-82" target="OHreoiryxiBT3IkIbKO8-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-27" value="Разрядка накопителя &#xa;до уровня e_night = e_max - deltaForecast или 0,5" style="fontSize=10;opacity=50;spacing=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-82" value="Разрядка накопителя &#xa;до уровня e_night = e_max - deltaForecast или 0,5" style="fontSize=10;opacity=50;spacing=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-960" y="475" width="340" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="Qy48FS5bYlg029Jx7id3-34" target="Qy48FS5bYlg029Jx7id3-31" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-87" target="OHreoiryxiBT3IkIbKO8-85">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1055" y="590" />
@@ -516,51 +524,51 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-29" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-84" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="870" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-31" value="Расчет уставки заряда (e_night - e_current / кол-во ночных часов)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-85" value="Расчет уставки заряда (e_night - e_current / кол-во ночных часов)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="Qy48FS5bYlg029Jx7id3-31" target="Qy48FS5bYlg029Jx7id3-29" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-85" target="OHreoiryxiBT3IkIbKO8-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-790" y="670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-34" value="Накопитель заряжается &#xa;до уровня e_night=e_max" style="fontSize=12;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-87" value="Накопитель заряжается &#xa;до уровня e_night=e_max" style="fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="-1130" y="470" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-35" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-88" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1710" y="291" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-38" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-89" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1110" y="430" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-39" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-90" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-850" y="381" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-40" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-91" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="189" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;deltaForecast = ActiveLoadForecast - SolarGenerationForecast&amp;nbsp;+ GridPowerOutput (по умолчанию равно 0)&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-92" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;deltaForecast = ActiveLoadForecast - SolarGenerationForecast&amp;nbsp;+ GridPowerOutput (по умолчанию равно 0)&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="-1750" y="151" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="Qy48FS5bYlg029Jx7id3-44" target="Qy48FS5bYlg029Jx7id3-69" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-94" target="OHreoiryxiBT3IkIbKO8-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-44" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-94" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2490" y="1351" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" source="Qy48FS5bYlg029Jx7id3-47" target="Qy48FS5bYlg029Jx7id3-50" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-97" target="OHreoiryxiBT3IkIbKO8-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="Qy48FS5bYlg029Jx7id3-47" target="Qy48FS5bYlg029Jx7id3-56" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-97" target="OHreoiryxiBT3IkIbKO8-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-47" value="&lt;span&gt;peak_hours_forecast &amp;gt; peak_hours_forecast_threshold&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-97" value="&lt;span&gt;peak_hours_forecast &amp;gt; peak_hours_forecast_threshold&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2400" y="1670" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="Qy48FS5bYlg029Jx7id3-50" target="Qy48FS5bYlg029Jx7id3-67" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-100" target="OHreoiryxiBT3IkIbKO8-117">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2300" y="1830" />
@@ -568,82 +576,82 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="Qy48FS5bYlg029Jx7id3-50" target="Qy48FS5bYlg029Jx7id3-78" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-100" target="OHreoiryxiBT3IkIbKO8-128">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-50" value="CurrentBatteryCharge &amp;gt;= e_max" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-100" value="CurrentBatteryCharge &amp;gt;= e_max" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2400" y="1790" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-51" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-101" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2480" y="1750" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-52" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-102" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2480" y="1870" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-53" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-103" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-54" value="Периодичность запуска 1 мин" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-104" value="Периодичность запуска 1 мин" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2300" y="1351" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="Qy48FS5bYlg029Jx7id3-56" target="Qy48FS5bYlg029Jx7id3-58" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-106" target="OHreoiryxiBT3IkIbKO8-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-56" value="Определение&lt;br&gt;ACS.ph_forecast_sequenctional_prob_sum" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-106" value="Определение&lt;br&gt;ACS.ph_forecast_sequenctional_prob_sum" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2820" y="1680" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="Qy48FS5bYlg029Jx7id3-58" target="Qy48FS5bYlg029Jx7id3-62" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-108" target="OHreoiryxiBT3IkIbKO8-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-58" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;&quot;&gt;Расчет уставки с учетом поправки на текущий заряд и &lt;/span&gt;&lt;font&gt;распределение&lt;/font&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;на последовательные часы&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;EESS.p_set &lt;/b&gt;&lt;font&gt;= EESS.p_discharge*((EESS.e_current - EESS.e_min)/EESS.e_nom) * EESS.cp_discharge * GRID.ph_forecast / ACS.ph_forecast_sequenctional_prob_sum&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-108" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;&quot;&gt;Расчет уставки с учетом поправки на текущий заряд и &lt;/span&gt;&lt;font&gt;распределение&lt;/font&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;на последовательные часы&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;EESS.p_set &lt;/b&gt;&lt;font&gt;= EESS.p_discharge*((EESS.e_current - EESS.e_min)/EESS.e_nom) * EESS.cp_discharge * GRID.ph_forecast / ACS.ph_forecast_sequenctional_prob_sum&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2720" y="1810" width="440" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-59" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-109" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2690" y="1680" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" source="Qy48FS5bYlg029Jx7id3-62" target="Qy48FS5bYlg029Jx7id3-64" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-112" target="OHreoiryxiBT3IkIbKO8-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="Qy48FS5bYlg029Jx7id3-62" target="Qy48FS5bYlg029Jx7id3-67" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-112" target="OHreoiryxiBT3IkIbKO8-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-62" value="abs((EESS.p_current - EESS.p_set) / EESS.p_set) &amp;gt; ACS.eess_set_mismatch_limit" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-112" value="abs((EESS.p_current - EESS.p_set) / EESS.p_set) &amp;gt; ACS.eess_set_mismatch_limit" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2750" y="2080" width="380" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="Qy48FS5bYlg029Jx7id3-64" target="Qy48FS5bYlg029Jx7id3-67" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-114" target="OHreoiryxiBT3IkIbKO8-117">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-64" value="Отправка уставки на накопитель" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-114" value="Отправка уставки на накопитель" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2880" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-65" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-115" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2880" y="2160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-66" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-116" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2730" y="2080" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-67" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-117" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2880" y="2360" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="Qy48FS5bYlg029Jx7id3-69" target="Qy48FS5bYlg029Jx7id3-72" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-119" target="OHreoiryxiBT3IkIbKO8-122">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-69" value="&lt;span style=&quot;text-align: left&quot;&gt;delta = ActiveLoadFact - SolarGenerationFact + GridPowerOutput&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-119" value="&lt;span style=&quot;text-align: left&quot;&gt;delta = ActiveLoadFact - SolarGenerationFact + GridPowerOutput&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2475" y="1421" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="Qy48FS5bYlg029Jx7id3-72" target="Qy48FS5bYlg029Jx7id3-47" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-122" target="OHreoiryxiBT3IkIbKO8-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="Qy48FS5bYlg029Jx7id3-72" target="Qy48FS5bYlg029Jx7id3-75" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-122" target="OHreoiryxiBT3IkIbKO8-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-72" value="delta&amp;gt;delta_threshold" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-122" value="delta&amp;gt;delta_threshold" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2480" y="1521" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-73" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-123" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2490" y="1591" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="Qy48FS5bYlg029Jx7id3-75" target="Qy48FS5bYlg029Jx7id3-62" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-125" target="OHreoiryxiBT3IkIbKO8-112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3190" y="1561" />
@@ -651,33 +659,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-75" value="Заряд накопителя и ограничение солнечной генерации если требуется" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-125" value="Заряд накопителя и ограничение солнечной генерации если требуется" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2780" y="1531" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-76" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-126" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2610" y="1531" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="Qy48FS5bYlg029Jx7id3-78" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-128">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2550" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-78" value="Расчет времени заряда до полной емкости (из псевдопрогнозов?)" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-128" value="Расчет времени заряда до полной емкости (из псевдопрогнозов?)" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2460" y="1920" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-79" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-129" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2770" y="1480" as="sourcePoint" />
             <mxPoint x="2770" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-80" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-130" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2770" y="1480" as="sourcePoint" />
             <mxPoint x="2940" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-81" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-131" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2770" y="1430" as="sourcePoint" />
             <mxPoint x="2980" y="1430" as="targetPoint" />
@@ -688,7 +696,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-82" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-132" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2780" y="1470" as="sourcePoint" />
             <mxPoint x="2950" y="1470" as="targetPoint" />
@@ -700,19 +708,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-83" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-133" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2230" y="1599.5699999999997" as="sourcePoint" />
             <mxPoint x="2230" y="1479.5699999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-84" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-134" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2230" y="1599.5699999999997" as="sourcePoint" />
             <mxPoint x="2430" y="1599.5699999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-85" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-135" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2230" y="1502" as="sourcePoint" />
             <mxPoint x="2440" y="1502" as="targetPoint" />
@@ -723,7 +731,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-86" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-136" value="" style="curved=1;endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;endFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2240" y="1589.5699999999997" as="sourcePoint" />
             <mxPoint x="2410" y="1589.5699999999997" as="targetPoint" />
@@ -735,99 +743,99 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-137" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2870" y="1403" as="sourcePoint" />
             <mxPoint x="2870" y="1363" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-88" value="&quot;-&quot; delta Forecast" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-138" value="&quot;-&quot; delta Forecast" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2890" y="1351" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-89" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-139" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2330" y="1510" as="sourcePoint" />
             <mxPoint x="2330" y="1475" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-90" value="Задача поглотить максимум солнечной энергии для последующего разряда&lt;br&gt;Тот случай, когда в ЧПН не нужно разряжать накопитель, а нужно выдать максимум солнца. Такое может быть, периодически выпадают ЧПН на 12 и 14 часы. В таком случае важно не выдать мощность в сеть. Разряд излишек мощности должен идти при минимальной активности" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-140" value="Задача поглотить максимум солнечной энергии для последующего разряда&lt;br&gt;Тот случай, когда в ЧПН не нужно разряжать накопитель, а нужно выдать максимум солнца. Такое может быть, периодически выпадают ЧПН на 12 и 14 часы. В таком случае важно не выдать мощность в сеть. Разряд излишек мощности должен идти при минимальной активности" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2990" y="1381" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-91" value="Задача - эффективно зарядить накопитель и разрядить его в ЧПН" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-141" value="Задача - эффективно зарядить накопитель и разрядить его в ЧПН" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2010" y="1521" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-92" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-142" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2865" y="1430" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-93" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-143" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2915" y="1450" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-94" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-144" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2840" y="1440" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-95" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-145" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2865" y="1430" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-96" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-146" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2915" y="1450" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-97" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-147" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2840" y="1440" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-98" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-148" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2325" y="1540" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-99" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-149" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2375" y="1560" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-100" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-150" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2300" y="1550" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" source="Qy48FS5bYlg029Jx7id3-102" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-152">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2940" y="2045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-102" value="Заряд накопителя обратно пропорционально прогнозным delta (положит. delta плохо), чем меньше тем лучше." style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-152" value="Заряд накопителя обратно пропорционально прогнозным delta (положит. delta плохо), чем меньше тем лучше." style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2460" y="2010" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-103" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;&quot;-&quot; delta&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-153" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;times new roman&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;&quot;-&quot; delta&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2120" y="1500" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-104" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&quot;+&quot; delta&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-154" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;times new roman&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&quot;+&quot; delta&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2350" y="1441" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-105" value="ПЧПН - зарядка условие добавить" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-155" value="ПЧПН - зарядка условие добавить" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2090" y="1920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-106" value="15 мин прогнозы нагрузки + солнце (продумать)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-156" value="15 мин прогнозы нагрузки + солнце (продумать)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2420" y="1180" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-107" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Дневной режим (c 7-00 до 22-00)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-157" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Дневной режим (c 7-00 до 22-00)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2375" y="1241" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-108" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-158" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="25" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-109" target="zP0uGg4A8xvc0My2Uz2D-24">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-160" target="OHreoiryxiBT3IkIbKO8-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-109" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;&quot;&gt;Расчет уставки&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;EESS.p_set &lt;/b&gt;&lt;font&gt;&lt;b&gt;= SolarForecast - LoadFact&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-160" value="&lt;p style=&quot;line-height: 1&quot;&gt;&lt;/p&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;&quot;&gt;Расчет уставки&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;EESS.p_set &lt;/b&gt;&lt;font&gt;&lt;b&gt;= SolarForecast - LoadFact&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1090" y="440" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF3333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-111" target="Qy48FS5bYlg029Jx7id3-109">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF3333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-163" target="OHreoiryxiBT3IkIbKO8-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Qy48FS5bYlg029Jx7id3-111" target="zP0uGg4A8xvc0My2Uz2D-33">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#FF3333;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHreoiryxiBT3IkIbKO8-163" target="OHreoiryxiBT3IkIbKO8-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-111" value="CurrentBatteryCharge &amp;gt;= e_max" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-163" value="CurrentBatteryCharge &amp;gt;= e_max" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="820" y="281" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-115" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-164" value="Нет" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1100" y="285" width="40" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="Qy48FS5bYlg029Jx7id3-116" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="OHreoiryxiBT3IkIbKO8-165" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="910" y="359" width="60" height="30" as="geometry" />
         </mxCell>
       </root>

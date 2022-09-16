@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T09:42:26.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ytCeIzKsJC28M5SPyH40" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T10:13:34.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rjTomyV48hJDTGeZPNT6" version="20.3.1" type="github">
   <diagram id="rJ0aZCPC_T9hAvii4GM2" name="Page-1">
-    <mxGraphModel dx="2807" dy="1777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3038" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5MziBYs-ehu7VpEonlfA-17" value="Подсистема&lt;br&gt;&amp;nbsp;ведения данных (ПВД)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;+расчет параметров схемы замещения&lt;br&gt;+сравнение моделей&lt;br&gt;+ввод данных по оборудованию&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="490" y="1520" width="120" height="110" as="geometry" />
+          <mxGeometry x="490" y="1510" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5MziBYs-ehu7VpEonlfA-18" value="ПВД - подсистема ведения данных" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-500" y="830" width="240" height="30" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TCRBgPdTO1CyOnZ_bwKc-20" value="Подсистема преобразования данных (ППД)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;+Формирование расчетных моделей из CIM (топ. процессор)&lt;br&gt;+генерация файлов для внешних организаций (rg2, grf, и др.)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="1340" width="120" height="170" as="geometry" />
+          <mxGeometry x="580" y="1330" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="TCRBgPdTO1CyOnZ_bwKc-23" value="СК-11" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="550" y="1910" width="100" height="50" as="geometry" />

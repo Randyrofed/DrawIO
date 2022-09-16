@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T10:13:34.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rjTomyV48hJDTGeZPNT6" version="20.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T10:42:06.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vVlb5FMePzAJE9LG-l41" version="20.3.1" type="github" pages="2">
   <diagram id="rJ0aZCPC_T9hAvii4GM2" name="Page-1">
-    <mxGraphModel dx="3038" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5914" dy="2992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,6 +184,130 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TCRBgPdTO1CyOnZ_bwKc-27" value="Подсистема распределенного хранения данных (ПРХД)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fAP-Rj1OwWScNzEOyM6k" name="Page-2">
+    <mxGraphModel dx="2130" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UoRp4MybZdew7zCOlhdp-1" value="Подсистема &lt;br&gt;приема и &lt;br&gt;передачи &lt;br&gt;данных (ПППД)" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1660" width="960" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-2" value="RastrWin3" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1910" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="248.67000000000002" y="1169" width="102.67" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-4" value="Среда обмена данными" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1670" width="820" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.209;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-6" target="UoRp4MybZdew7zCOlhdp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-6" value="Подсистема выполнения распределенных расчетов (ПВРР)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;+работа с модулями RastrWin3&amp;nbsp;&lt;br&gt;+АНАРЭС-2000&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1520" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-8" value="Подсистема&lt;br&gt;&amp;nbsp;ведения данных (ПВД)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;+расчет параметров схемы замещения&lt;br&gt;+сравнение моделей&lt;br&gt;+ввод данных по оборудованию&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1510" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.719;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-10" target="UoRp4MybZdew7zCOlhdp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-10" value="Подсистема хранения данных (ПХД)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-12" value="Подсистема журналирования (ПЖ)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="1660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-14" value="Подсистема мониторинга и диагностики (ПМД)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-17" target="UoRp4MybZdew7zCOlhdp-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.105;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-17" target="UoRp4MybZdew7zCOlhdp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-17" value="Подсистема разграничения доступа (ПРД)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;+расширение API (мб. асинхронные запросы, нюансы с графикой - нужно обсуждать)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1274" width="120" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-19" value="Подсистема оповещения и уведомления (ПОУ)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;+информирование о результатах расчета&lt;br&gt;+ошибки в модели&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="990" y="1754" width="120" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-24" target="UoRp4MybZdew7zCOlhdp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-24" target="UoRp4MybZdew7zCOlhdp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="1720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#FF3333;startArrow=classic;startFill=1;exitX=0.1;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-24" target="UoRp4MybZdew7zCOlhdp-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="772" y="1870" />
+              <mxPoint x="600" y="1870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-24" value="Подсистема взаимодействия с внешними системами (ПВВС)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;+ RastrWin3&lt;br&gt;+АНАРЭС-2000&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1750" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-25" value="АНАРЭС-2000" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1910" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-26" value="Подсистема графического интерфейса (ПГИ)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;-редактор однолинейных схем&lt;br&gt;-конструктор моделей РЗА&lt;br&gt;-интерфейс анализа режимов и ТКЗ&lt;br&gt;-формирование и модификация отчетов&lt;br&gt;-визуализация графиков ии диаграмм&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1114.25" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.286;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF3333;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-28" target="UoRp4MybZdew7zCOlhdp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-28" value="Подсистема&lt;br&gt;&amp;nbsp;ведения бизнес-процессов (ПВБП)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;+управление расчетами RastrWin3&lt;br&gt;+управление расчетами АНАРЭС-2000&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1360" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.458;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF3333;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-30" target="UoRp4MybZdew7zCOlhdp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-30" value="Подсистема преобразования данных (ППД)&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;+Формирование расчетных моделей из CIM (топ. процессор)&lt;br&gt;+генерация файлов для внешних организаций (rg2, grf, и др.)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1330" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-31" value="СК-11" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1910" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#FF3333;startArrow=classic;startFill=1;" edge="1" parent="1" source="UoRp4MybZdew7zCOlhdp-33" target="UoRp4MybZdew7zCOlhdp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UoRp4MybZdew7zCOlhdp-33" value="Подсистема распределенного хранения данных (ПРХД)" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="740" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

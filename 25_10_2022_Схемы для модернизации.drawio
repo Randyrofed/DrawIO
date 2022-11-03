@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T12:38:49.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="4n9jnZ5zd_xkGiW0hC6A" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-03T12:47:40.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZcDtSJDI0FZjbwgUxeAO" version="20.5.1" type="github" pages="2">
   <diagram name="Распредсеть" id="Распредсеть">
-    <mxGraphModel dx="2568" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" value="Примечания" parent="0" />
@@ -4539,6 +4539,12 @@
         <mxCell id="757" value="&lt;div style=&quot;font-size: 1px&quot;&gt;&lt;font style=&quot;font-size:14.11px;font-family:Calibri;color:#000000;direction:ltr;letter-spacing:0px;line-height:120%;opacity:1&quot;&gt;&lt;b&gt;RTDS&lt;br/&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;vsdxID=1490;fillColor=none;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="734" y="421" width="132" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="0EJMkumvyAu5Y72XwDDt-1496" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;gradientDirection=north;opacity=10;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="72" y="791" width="78" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0EJMkumvyAu5Y72XwDDt-1497" value="Можно моделировать любое оборудование (RTDS + усилитель 15 кВт)" style="verticalAlign=middle;align=left;vsdxID=277;fillColor=none;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="155" y="807" width="306" height="16" as="geometry" />
+        </mxCell>
         <mxCell id="3" value="Электрический" parent="0" />
         <mxCell id="2" value="Соединительная линия" parent="0" />
       </root>
@@ -6177,6 +6183,9 @@
         </mxCell>
         <mxCell id="2qjcB8MGwYNRA5oSE0TJ-317" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;gradientDirection=north;opacity=10;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="1007" y="833" width="78" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="DXGPi6c7awoB0ymwFLmV-309" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#990000;fontSize=22;" edge="1" parent="1" source="2qjcB8MGwYNRA5oSE0TJ-318" target="2qjcB8MGwYNRA5oSE0TJ-317">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2qjcB8MGwYNRA5oSE0TJ-318" value="Моделируется в RTDS" style="verticalAlign=middle;align=left;vsdxID=277;fillColor=none;gradientColor=none;shape=stencil(nZBLDoAgDERP0z3SIyjew0SURgSD+Lu9kMZoXLhwN9O+tukAlrNpJg1SzDH4QW/URgNYgZTkjA4UkwJUgGXng+6DX1zLfmoymdXo17xh5zmRJ6Q42BWCfc2oJfdAr+Yv+AP9Cb7OJ3H/2JG1HNGz/84klThPVCc=);strokeColor=none;spacingTop=-1;spacingBottom=-1;spacingLeft=-1;spacingRight=-1;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1090" y="849" width="306" height="16" as="geometry" />

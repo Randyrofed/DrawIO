@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T20:29:32.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EDPnW6ydFyEpPYftZpmM" version="20.8.20" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-25T20:30:26.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6DhxdNPnxeRg4wi5zzEw" version="20.8.20" type="github" pages="2">
   <diagram name="Page-1" id="7j1ngm0fmsIptOdnjCNE">
-    <mxGraphModel dx="3154" dy="3122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3754" dy="3436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -723,7 +723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VXBt-UXBRDWpxmzLkV58" name="Page-2">
-    <mxGraphModel dx="4279" dy="1373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5854" dy="2196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -810,6 +810,36 @@
         </mxCell>
         <mxCell id="qmtyyZGIH2b4XlWqsK73-4" value="ДГУ" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=lPek1tHa6tzv;" vertex="1" parent="1">
           <mxGeometry x="-945" y="615" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-1" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#834187;strokeWidth=2.3;lucidId=~7xk9oZ0BA67;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="1489" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-2" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#0c7cba;strokeWidth=2.3;lucidId=C8xkJH8S0w0E;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="1534" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-3" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#c92d39;strokeWidth=2.3;lucidId=F8xkoeyH.iG4;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="1579" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-4" value="Производные параметры " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=left;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=i9xkaGjWqIR0;" vertex="1" parent="1">
+          <mxGeometry x="-1508" y="1560" width="223" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-5" value="Данные получаемые из внешних сервисов" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=left;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=m9xkpboA-T-v;" vertex="1" parent="1">
+          <mxGeometry x="-1508" y="1525" width="369" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-6" value="Параметры задаваемые пользователем" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=left;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=q9xk.yRqxWwN;" vertex="1" parent="1">
+          <mxGeometry x="-1508" y="1480" width="360" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-7" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#999999;strokeWidth=2.3;lucidId=XtPkgNZZNUrk;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="1671" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-8" value="В разработке" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=left;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=3tPk_b-1-AQ_;" vertex="1" parent="1">
+          <mxGeometry x="-1508" y="1654" width="142" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-9" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#7ab648;strokeWidth=2.3;lucidId=p4QkA4eWzKPJ;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="1624" width="45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UagMvODtPvVlJ82KUxd5-10" value="Справочные данные" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=left;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=W4QkvAr5gh.B;" vertex="1" parent="1">
+          <mxGeometry x="-1508" y="1604" width="208" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

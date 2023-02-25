@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T19:06:05.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qvDrVtyBzgumDYpuSK50" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T19:12:28.107Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Nrg__PSWspqlmZWlPxia" version="20.8.20" type="github">
   <diagram name="Page-1" id="7j1ngm0fmsIptOdnjCNE">
-    <mxGraphModel dx="8654" dy="5998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6904" dy="5083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="535" y="2040" width="515" height="499" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-10" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=55;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e5e5e5;dashed=1;fixDash=1;strokeWidth=2.3;lucidId=Kcik5YpUjn-o;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="600" width="1470" height="1215" as="geometry" />
+          <mxGeometry x="1750" y="670" width="1470" height="1215" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-11" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;dashed=1;fixDash=1;strokeWidth=2.3;lucidId=4.hk9J6-EUs4;" vertex="1" parent="1">
           <mxGeometry x="-1215" y="1187" width="1035" height="353" as="geometry" />
@@ -122,16 +122,16 @@
           <mxGeometry x="150" y="315" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-40" value="Профиль солнечной генерации " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=p_hkRFxiG3hB;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1710" width="180" height="90" as="geometry" />
+          <mxGeometry x="2455" y="1780" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-41" value="Метеоданные (DNI, DHI, GHI, температура, скорость ветра). TMY погодные, etc. " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fcc438;strokeWidth=2.3;lucidId=p_hkwe-.UPDJ;" vertex="1" parent="1">
-          <mxGeometry x="1615" y="1289" width="195" height="118" as="geometry" />
+          <mxGeometry x="2140" y="1359" width="195" height="118" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-42" value="Технические характеристики солнечных панелей" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fcc438;strokeWidth=2.3;lucidId=p_hkx8b~lON6;" vertex="1" parent="1">
-          <mxGeometry x="2155" y="1281" width="180" height="90" as="geometry" />
+          <mxGeometry x="2680" y="1351" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-43" value="Генерация синтетического метеофайла" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=p_hkio9KcXf3;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="1092" width="180" height="90" as="geometry" />
+          <mxGeometry x="2335" y="1162" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-44" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=1.006;entryY=0.5;entryPerimeter=0;lucidId=p_hkyGwb.FKF;" edge="1" parent="1" source="9sq6c23NFKgK6vMcmQ4V-43" target="9sq6c23NFKgK6vMcmQ4V-41">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -144,13 +144,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-46" value="Пользователь" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=p_hkfByASdXn;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="813" width="180" height="90" as="geometry" />
+          <mxGeometry x="2455" y="883" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-47" value="Справочник " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=p_hkWphWK6v5;" vertex="1" parent="1">
-          <mxGeometry x="2155" y="1092" width="180" height="90" as="geometry" />
+          <mxGeometry x="2680" y="1162" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-48" value="Пространственное расположение солнечных панелей " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fcc438;strokeWidth=2.3;lucidId=p_hkKkJ_RMpx;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1285" width="180" height="90" as="geometry" />
+          <mxGeometry x="2455" y="1355" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-49" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.006;exitY=0.887;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;lucidId=p_hk5cc1IsCT;" edge="1" parent="1" source="9sq6c23NFKgK6vMcmQ4V-46" target="9sq6c23NFKgK6vMcmQ4V-43">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -160,7 +160,7 @@
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-50" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.006;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.01;entryPerimeter=0;lucidId=p_hkotvwU.ru;" edge="1" parent="1" source="9sq6c23NFKgK6vMcmQ4V-46" target="9sq6c23NFKgK6vMcmQ4V-41">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1824" y="858" />
+              <mxPoint x="2349" y="928" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -192,17 +192,17 @@
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-56" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.012;exitPerimeter=0;entryX=1.006;entryY=0.5;entryPerimeter=0;lucidId=p_hkrRN7HwnY;" edge="1" parent="1" source="9sq6c23NFKgK6vMcmQ4V-46" target="9sq6c23NFKgK6vMcmQ4V-40">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2020" y="782" />
-              <mxPoint x="2635" y="782" />
-              <mxPoint x="2635" y="1755" />
+              <mxPoint x="2545" y="852" />
+              <mxPoint x="3160" y="852" />
+              <mxPoint x="3160" y="1825" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-57" value="Модуль оценки качества и предобработки метеоданных" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=p_hkfyU7pD6A;" vertex="1" parent="1">
-          <mxGeometry x="1468" y="959" width="173" height="98" as="geometry" />
+          <mxGeometry x="1993" y="1029" width="173" height="98" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-58" value="Специализированные сервисы предоставляющие погодные данные " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=p_hkSg.JwM9O;" vertex="1" parent="1">
-          <mxGeometry x="1465" y="809" width="180" height="98" as="geometry" />
+          <mxGeometry x="1990" y="879" width="180" height="98" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-59" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.602;exitY=1.01;exitPerimeter=0;entryX=0.404;entryY=-0.011;entryPerimeter=0;lucidId=p_hkN6QDuLmq;" edge="1" parent="1" source="9sq6c23NFKgK6vMcmQ4V-104" target="9sq6c23NFKgK6vMcmQ4V-58">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -230,10 +230,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-64" value="Расчетный модуль" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=p_hktkfly756;" vertex="1" parent="1">
-          <mxGeometry x="1930" y="1515" width="180" height="90" as="geometry" />
+          <mxGeometry x="2455" y="1585" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-65" value="Технические характеристики инвертора" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fcc438;strokeWidth=2.3;lucidId=p_hkDjCIE7XS;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="1281" width="180" height="90" as="geometry" />
+          <mxGeometry x="2905" y="1351" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-66" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.006;exitY=0.5;exitPerimeter=0;entryX=0.55;entryY=-0.012;entryPerimeter=0;lucidId=p_hk9D0WEUTX;" edge="1" parent="1" source="9sq6c23NFKgK6vMcmQ4V-47" target="9sq6c23NFKgK6vMcmQ4V-65">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -261,7 +261,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-71" value="Модуль оценки потенциала солнечной генерации " style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=~bikI6FK4WPe;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="630" width="120" height="118" as="geometry" />
+          <mxGeometry x="1765" y="700" width="120" height="118" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-72" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=-0.01;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.004;entryPerimeter=0;lucidId=Weik8VQ_PrUZ;" edge="1" parent="1" source="9sq6c23NFKgK6vMcmQ4V-39" target="9sq6c23NFKgK6vMcmQ4V-7">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -375,7 +375,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-94" value="В РАЗРАБОТКЕ" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=73.3;fontColor=#999999;fontStyle=1;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=EKxkRLidbyi4;" vertex="1" parent="1">
-          <mxGeometry x="1545" y="624" width="946" height="95" as="geometry" />
+          <mxGeometry x="2070" y="694" width="946" height="95" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-95" value="Модуль подбора оптимальных параметров накопителей" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;lucidId=9LxkisYMnaH4;" vertex="1" parent="1">
           <mxGeometry x="867" y="1731" width="165" height="96" as="geometry" />
@@ -405,10 +405,10 @@
           <mxGeometry x="-195" y="105" width="360" height="48" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-104" value="Free" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;shape=cloud;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=RjAk6z6DHYSH;" vertex="1" parent="1">
-          <mxGeometry x="1425" y="630" width="120" height="90" as="geometry" />
+          <mxGeometry x="1950" y="700" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-105" value="$$$" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;shape=cloud;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=8jAkHOlw1x2d;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="630" width="120" height="90" as="geometry" />
+          <mxGeometry x="2115" y="700" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-106" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/f35f6fb4-5659-4c0b-a43c-04a9f83e49fa/content;imageAspect=0;lucidId=ypAkomiW6Wv_;" vertex="1" parent="1">
           <mxGeometry x="615" y="613" width="87" height="87" as="geometry" />

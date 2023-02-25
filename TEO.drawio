@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T19:16:01.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="LI5hThEK-GoihGDOIouD" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T20:21:17.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cT4IZeMOeO7inNi6TGys" version="20.8.20" type="github" pages="2">
   <diagram name="Page-1" id="7j1ngm0fmsIptOdnjCNE">
     <mxGraphModel dx="3754" dy="3436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -709,6 +709,23 @@
         </mxCell>
         <mxCell id="9sq6c23NFKgK6vMcmQ4V-180" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-align: justify&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;При достижении определенной уставки суммарного перетока мощности через Ввод1 0,4 кВ и Ввод2 0,4 кВ БКТП 345 АСДУ ФЭС&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;формирует управляющее воздействие на уменьшение значений выходного тока переменного напряжения 0,4 кВ, выдаваемого в сеть электроснабжения предприятия.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-align: justify&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot;&gt;Управляющее воздействие передается по сети АСДУ каждому инвертору, находящемуся&lt;br&gt;в работе. Инверторы в соответствии с параметром управляющей команды уменьшают&lt;br&gt;значение выходного тока в сеть предприятия, и, следовательно, - выдачу генерируемой фотоэлектрическим модулям электрической мощности. Что позволяет не&lt;br&gt;достигать перепроизводства электроэнергии станцией.&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="2120" y="-400" width="490" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VXBt-UXBRDWpxmzLkV58" name="Page-2">
+    <mxGraphModel dx="2704" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p6TV8_pkSFvFmHCXnj-5-1" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;dashed=1;fixDash=1;strokeWidth=2.3;lucidId=F.hk3DGBNLS3;" vertex="1" parent="1">
+          <mxGeometry x="-915" y="600" width="480" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="p6TV8_pkSFvFmHCXnj-5-2" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/aee48470-7566-44ae-b299-56230bd5e5df/content;imageAspect=0;lucidId=dbekjgRp3Mci;" vertex="1" parent="1">
+          <mxGeometry x="-615" y="613" width="153" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="p6TV8_pkSFvFmHCXnj-5-3" value="Внешняя сеть" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=Q7ekmBW96eN7;" vertex="1" parent="1">
+          <mxGeometry x="-901" y="605" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

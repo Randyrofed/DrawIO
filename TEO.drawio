@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T15:40:07.182Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-OeFIRq7Hv3aR0eH5peH" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-26T15:41:46.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7IgclVxpurWa3ZJJGbDZ" version="20.8.23" type="github" pages="4">
   <diagram name="Page-1" id="7j1ngm0fmsIptOdnjCNE">
     <mxGraphModel dx="3920" dy="3175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -723,7 +723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VXBt-UXBRDWpxmzLkV58" name="Для НТС">
-    <mxGraphModel dx="3397" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4487" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -785,7 +785,7 @@
             <mxPoint x="305" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="djIi2eSNMt33pwqr9DMF-1" value="Модуль оценки потенциала генерации на ВИЭ (pvlib, WindPowerlib)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=VofkCyWIbXY5;" parent="1" vertex="1">
+        <mxCell id="djIi2eSNMt33pwqr9DMF-1" value="Модуль оценки потенциала генерации на ВИЭ" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#999999;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=VofkCyWIbXY5;" parent="1" vertex="1">
           <mxGeometry x="160" y="990" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="qmtyyZGIH2b4XlWqsK73-1" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#000000;fixDash=1;strokeWidth=2.3;lucidId=_7hksIq2fGhR;" parent="1" vertex="1">

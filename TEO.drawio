@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T15:59:04.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="63tmHJ-cl_reDUssuNE9" version="20.8.23" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-02-26T16:00:02.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Tam6sxIx9DC17rhrnK7V" version="20.8.23" type="github" pages="4">
   <diagram name="Page-1" id="7j1ngm0fmsIptOdnjCNE">
-    <mxGraphModel dx="6186" dy="4012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4891" dy="3534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -723,7 +723,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VXBt-UXBRDWpxmzLkV58" name="Для НТС">
-    <mxGraphModel dx="4320" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5431" dy="1395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -848,9 +848,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zMbP3UseHWxuE7RYd7vg-5" value="Данные для финансово-экономической модели" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="1fnRhi0eJXdCb0_FjjLK-21">
+        <mxCell id="zMbP3UseHWxuE7RYd7vg-5" value="Данные для финансово-экономической модели (профили для альтернативного и базового варианта)&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="1fnRhi0eJXdCb0_FjjLK-21">
           <mxGeometry x="0.7001" y="-2" relative="1" as="geometry">
-            <mxPoint x="-238" y="-2" as="offset" />
+            <mxPoint x="-348" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JMTRZeBEZy442nbnaZ84-1" value="Сервис оптимизации" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16;fontColor=#333333;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=CWRk4ru2M6BZ;verticalAlign=top;" parent="1" vertex="1">

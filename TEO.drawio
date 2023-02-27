@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T13:52:29.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="FEN8AeKb6mVZN0Kq-aBR" version="20.8.23" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-02-27T14:00:18.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="I0ZZsu55EHndZt7nv4C5" version="20.8.23" type="github" pages="5">
   <diagram name="Page-1" id="7j1ngm0fmsIptOdnjCNE">
     <mxGraphModel dx="3432" dy="3992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1415,10 +1415,70 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lhRr0GZbgo8EYLZXh85K" name="Алгоритм">
-    <mxGraphModel dx="889" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1111" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-2" value="Ввод данных пользователем" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="565" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-3" value="Имитационное моделирование" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="625" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-7" value="Старт" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-8" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-9" value="Расчет финансовой модели" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="685" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-10" value="Выбор оптимального&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="630" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8UyUSbS6ZaqzKqvtBws-11" target="M8UyUSbS6ZaqzKqvtBws-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-11" value="Технико-экономическое обоснование" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8UyUSbS6ZaqzKqvtBws-12" target="M8UyUSbS6ZaqzKqvtBws-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-12" value="Создание системы управления" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8UyUSbS6ZaqzKqvtBws-13" target="M8UyUSbS6ZaqzKqvtBws-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-13" value="Подключение к внешним сервисам (системные услуги)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="M8UyUSbS6ZaqzKqvtBws-14" target="M8UyUSbS6ZaqzKqvtBws-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="190" />
+              <mxPoint x="150" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-20" value="Совершенствование алгоритмов прогнозирование и оптимизации" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="M8UyUSbS6ZaqzKqvtBws-15">
+          <mxGeometry x="0.1102" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="M8UyUSbS6ZaqzKqvtBws-14" target="M8UyUSbS6ZaqzKqvtBws-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="210" />
+              <mxPoint x="320" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M8UyUSbS6ZaqzKqvtBws-14" value="Поддержка и получение опыта" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T16:51:55.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zks6yzemifob7r3LP64w" version="21.0.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-11T16:56:07.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mWLGvEV_EBxLe4AT28cF" version="21.0.6" type="github" pages="5">
   <diagram name="Page-1" id="7j1ngm0fmsIptOdnjCNE">
     <mxGraphModel dx="3216" dy="3167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1109,17 +1109,27 @@
         <mxCell id="Ty3hxHclEe8ZKoFuEFhZ-36" value="$$$" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;ellipse;shape=cloud;fontSize=16.7;fontColor=#333333;spacing=3.8;strokeColor=#5e5e5e;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;lucidId=8jAkHOlw1x2d;" parent="1" vertex="1">
           <mxGeometry x="3645" y="506" width="120" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="j0SxNScx1tCMlse2kPlk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YoCq2M7uxBNfXyZkNONP-4" target="YoCq2M7uxBNfXyZkNONP-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YoCq2M7uxBNfXyZkNONP-4" value="Задание данных по оборудованию" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="1560" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YoCq2M7uxBNfXyZkNONP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="YoCq2M7uxBNfXyZkNONP-5" target="YoCq2M7uxBNfXyZkNONP-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1198" y="1685" />
+              <mxPoint x="1198" y="1651" />
+              <mxPoint x="1230" y="1651" />
+              <mxPoint x="1230" y="1671" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YoCq2M7uxBNfXyZkNONP-5" value="Имитационное моделирование и расчет балансов" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="1021" y="1818" width="140" height="50" as="geometry" />
+          <mxGeometry x="1026.5" y="1660" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YoCq2M7uxBNfXyZkNONP-6" value="Технико-экономическая оценка" style="rounded=0;whiteSpace=wrap;html=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="1200" y="1827" width="140" height="50" as="geometry" />
+          <mxGeometry x="1230" y="1671" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YoCq2M7uxBNfXyZkNONP-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=classic;endFill=1;" parent="1" source="YoCq2M7uxBNfXyZkNONP-7" edge="1">
           <mxGeometry relative="1" as="geometry">

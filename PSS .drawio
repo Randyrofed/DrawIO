@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T12:53:50.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="gROkTN-QC2hkGBJikZDL" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T12:56:05.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BBYQdrgQn4nC_5doj-sb" version="21.0.8" type="github">
   <diagram name="Page-1" id="ZyMO6e3TnWATeuTPRcdV">
     <mxGraphModel dx="2280" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-36" value="1-Создание базы &lt;br&gt;устройств РЗА" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bLjtOQ6BtMjxogzQHAxk-33">
           <mxGeometry x="0.0529" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="-51" as="offset" />
+            <mxPoint x="11" y="-101" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-6" value="ИС СРЗА&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Наполняется в ходе консалтинга&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -36,10 +36,18 @@
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-7" target="bLjtOQ6BtMjxogzQHAxk-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-7" target="bLjtOQ6BtMjxogzQHAxk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-54" value="5 - Профили потребления, &lt;br&gt;режимы работы установок" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bLjtOQ6BtMjxogzQHAxk-53">
+          <mxGeometry x="-0.3004" y="-20" relative="1" as="geometry">
+            <mxPoint x="109" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-7" value="Услуги для СЭС ПП" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="640" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-12" value="АСМ ЭСО&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Формирование БД оборудования с привязкой необходимых документов&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-12" value="АСМ ЭСО&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Формирование БД оборудования с привязкой необходимых документов&lt;br&gt;Предварительный поиск проблем (реализация макетов)&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="50" y="780" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-14" target="bLjtOQ6BtMjxogzQHAxk-20">
@@ -70,7 +78,7 @@
           <mxGeometry x="330" y="780" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-23" value="AMIGO FLEX&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Оценка возможностей повышения энергоэффективности с рыночными механизмами&lt;br&gt;Управление нагрузкой&lt;br&gt;Управление спросом&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="560" y="780" width="180" height="150" as="geometry" />
+          <mxGeometry x="540" y="780" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.312;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;entryPerimeter=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-28" target="bLjtOQ6BtMjxogzQHAxk-12">
           <mxGeometry relative="1" as="geometry">

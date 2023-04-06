@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T12:42:23.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="G209Y1_np14YXvCt01z3" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T12:50:57.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="P0ZUhDBGV4H66ZgFpD78" version="21.0.8" type="github">
   <diagram name="Page-1" id="ZyMO6e3TnWATeuTPRcdV">
-    <mxGraphModel dx="988" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2578" dy="897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-2" value="АСМ РЗА" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="840" width="90" height="30" as="geometry" />
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-2" value="АСМ РЗА&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Только пилоты (где МП РЗА)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="225" y="840" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-5" value="PF.Protection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="840" width="90" height="30" as="geometry" />
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-5" value="PF.Protection&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Формирование моделей РЗА при консалтинге&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="330" y="840" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-20" target="bLjtOQ6BtMjxogzQHAxk-29">
           <mxGeometry relative="1" as="geometry">
@@ -24,16 +24,8 @@
             <mxPoint x="1" y="-51" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-6" target="bLjtOQ6BtMjxogzQHAxk-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-47" value="МП РЗА - пилоты" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bLjtOQ6BtMjxogzQHAxk-46">
-          <mxGeometry x="-0.2576" y="1" relative="1" as="geometry">
-            <mxPoint x="-27" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-6" value="ИС СРЗА" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="840" width="90" height="30" as="geometry" />
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-6" value="ИС СРЗА&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Наполняется в ходе консалтинга&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="435" y="840" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-7" target="bLjtOQ6BtMjxogzQHAxk-29">
           <mxGeometry relative="1" as="geometry" />
@@ -47,8 +39,8 @@
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-7" value="Услуги для СЭС ПП" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="640" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-12" value="АСМ ЭСО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="780" width="90" height="30" as="geometry" />
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-12" value="АСМ ЭСО&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Формирование БД оборудования с привязкой необходимых документов&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="780" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-14" target="bLjtOQ6BtMjxogzQHAxk-20">
           <mxGeometry relative="1" as="geometry" />
@@ -59,10 +51,10 @@
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-14" target="bLjtOQ6BtMjxogzQHAxk-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-14" target="bLjtOQ6BtMjxogzQHAxk-12">
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-14" target="bLjtOQ6BtMjxogzQHAxk-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-14" target="bLjtOQ6BtMjxogzQHAxk-23">
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-14" target="bLjtOQ6BtMjxogzQHAxk-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-14" value="RTSoft SG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -77,15 +69,17 @@
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-20" value="APS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="780" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-23" value="AMIGO FLEX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="780" width="90" height="30" as="geometry" />
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-23" value="AMIGO FLEX&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Оценка возможностей повышения энергоэффективности с рыночными механизмами&lt;br&gt;Управление нагрузкой&lt;br&gt;Управление спросом&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="560" y="780" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="bLjtOQ6BtMjxogzQHAxk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.196;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;entryPerimeter=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-28" target="bLjtOQ6BtMjxogzQHAxk-12">
+        <mxCell id="bLjtOQ6BtMjxogzQHAxk-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.32;entryY=0.03;entryDx=0;entryDy=0;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;entryPerimeter=0;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-28" target="bLjtOQ6BtMjxogzQHAxk-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="190" y="595" />
-              <mxPoint x="190" y="786" />
-              <mxPoint x="225" y="786" />
+              <mxPoint x="190" y="690" />
+              <mxPoint x="90" y="690" />
+              <mxPoint x="90" y="750" />
+              <mxPoint x="88" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -116,7 +110,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-39" value="МАВИСМАРТ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="10" y="705" width="90" height="30" as="geometry" />
+          <mxGeometry x="-160" y="705" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="bLjtOQ6BtMjxogzQHAxk-41" target="bLjtOQ6BtMjxogzQHAxk-12">
           <mxGeometry relative="1" as="geometry" />
@@ -127,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bLjtOQ6BtMjxogzQHAxk-41" value="SEDMAX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="780" width="90" height="30" as="geometry" />
+          <mxGeometry x="-160" y="780" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

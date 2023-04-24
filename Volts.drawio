@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T10:31:39.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0uwRvxrTiZC147xL8FOP" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T10:33:08.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3PIB-ge6K1Te2aW_NK9y" version="21.1.2" type="github">
   <diagram name="Page-1" id="Qwv7uJTL_FpW3jfT5c1Q">
-    <mxGraphModel dx="1660" dy="1606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2020" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,6 +55,12 @@
         <mxCell id="PQJejVP98IKGqgHeFBoo-8" value="ПТК AMIGO EDGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="760" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PQJejVP98IKGqgHeFBoo-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.434;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PQJejVP98IKGqgHeFBoo-9" target="PQJejVP98IKGqgHeFBoo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQJejVP98IKGqgHeFBoo-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.347;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.231;entryY=0.804;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PQJejVP98IKGqgHeFBoo-9" target="PQJejVP98IKGqgHeFBoo-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-9" value="Шкаф информационной безопасности" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="760" width="120" height="60" as="geometry" />
         </mxCell>
@@ -64,17 +70,26 @@
         <mxCell id="PQJejVP98IKGqgHeFBoo-11" value="ЦУС ПАО &quot;Россети Ленэнерго&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="546.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQJejVP98IKGqgHeFBoo-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="690" as="sourcePoint" />
-            <mxPoint x="180" y="640" as="targetPoint" />
+        <mxCell id="PQJejVP98IKGqgHeFBoo-22" value="Amigo aggregator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PQJejVP98IKGqgHeFBoo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.781;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PQJejVP98IKGqgHeFBoo-23" target="PQJejVP98IKGqgHeFBoo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQJejVP98IKGqgHeFBoo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PQJejVP98IKGqgHeFBoo-23" target="PQJejVP98IKGqgHeFBoo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQJejVP98IKGqgHeFBoo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PQJejVP98IKGqgHeFBoo-23" target="PQJejVP98IKGqgHeFBoo-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="314" y="660" />
+              <mxPoint x="314" y="627" />
+              <mxPoint x="350" y="627" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PQJejVP98IKGqgHeFBoo-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="700" as="sourcePoint" />
-            <mxPoint x="225" y="650" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="PQJejVP98IKGqgHeFBoo-23" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="174" y="640" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

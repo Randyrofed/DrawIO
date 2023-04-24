@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T10:35:17.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Dsc1kp1ArVRECv6WOIBU" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T11:03:32.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="BbBUpsGA9Wno3_SvOxlm" version="21.1.2" type="github">
   <diagram name="Page-1" id="Qwv7uJTL_FpW3jfT5c1Q">
-    <mxGraphModel dx="1821" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2259" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,11 @@
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PQJejVP98IKGqgHeFBoo-3" target="PQJejVP98IKGqgHeFBoo-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PQJejVP98IKGqgHeFBoo-38" value="Modbus TCP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PQJejVP98IKGqgHeFBoo-33">
+          <mxGeometry x="-0.3146" y="1" relative="1" as="geometry">
+            <mxPoint x="27" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PQJejVP98IKGqgHeFBoo-3" target="PQJejVP98IKGqgHeFBoo-9">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +63,12 @@
         <mxCell id="PQJejVP98IKGqgHeFBoo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PQJejVP98IKGqgHeFBoo-7" target="PQJejVP98IKGqgHeFBoo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PQJejVP98IKGqgHeFBoo-7" value="ТП-1410" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQJejVP98IKGqgHeFBoo-37" value="Протокол???" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PQJejVP98IKGqgHeFBoo-14">
+          <mxGeometry x="0.1441" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQJejVP98IKGqgHeFBoo-7" value="ТП-1410&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-8" value="ПТК AMIGO EDGE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -79,7 +89,7 @@
         <mxCell id="PQJejVP98IKGqgHeFBoo-11" value="ЦУС ПАО &quot;Россети Ленэнерго&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="546.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQJejVP98IKGqgHeFBoo-22" value="Amigo aggregator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQJejVP98IKGqgHeFBoo-22" value="Amigo aggregator&lt;br&gt;(адрес уточняется)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.781;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.502;exitY=0.102;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PQJejVP98IKGqgHeFBoo-23" target="PQJejVP98IKGqgHeFBoo-10">
@@ -108,11 +118,14 @@
         <mxCell id="PQJejVP98IKGqgHeFBoo-23" value="GSM-каналы &lt;br&gt;связи" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="174" y="640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PQJejVP98IKGqgHeFBoo-30" value="АРМ диспетчера" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="PQJejVP98IKGqgHeFBoo-30" value="АРМ диспетчера&lt;br&gt;(интерфейс ПТК(" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-35" value="Контейнер СНЭЭ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="710" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQJejVP98IKGqgHeFBoo-36" value="GSM-канал связи (осн.)(рез.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="710" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

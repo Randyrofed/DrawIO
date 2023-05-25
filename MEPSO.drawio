@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T09:49:39.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lghwXAc5-7PYSJ_42Auj" version="21.3.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-25T09:58:45.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Qs63ied8ETn5q3Sj5Cd_" version="21.3.3" type="github" pages="3">
   <diagram name="Архитектура" id="C8EYv0-4cQGbFv8BrLbv">
-    <mxGraphModel dx="1885" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2593" dy="1345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -807,7 +807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Вариант 2" id="IGs_A-DQsylxHe93Iu-3">
-    <mxGraphModel dx="2074" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1209,7 +1209,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xb3I72hPaFXzr_LYFna9" name="Page-3">
-    <mxGraphModel dx="2074" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />

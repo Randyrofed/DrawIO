@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T14:21:23.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="5jYsRXS2w4eXVSMitPOG" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-03T14:25:55.247Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="N8SxOuYwwqkMY-JctWnk" version="21.3.2" type="github" pages="3">
   <diagram id="kRO0kC40BmJgkUcewpKG" name="Page-1">
     <mxGraphModel dx="1905" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -538,7 +538,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Для статьи" id="dN1jsHzXJjxZ_vDJFBfU">
-    <mxGraphModel dx="2572" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Ad43L_1lCyENP8u02Rx2-0" />
         <mxCell id="Ad43L_1lCyENP8u02Rx2-1" parent="Ad43L_1lCyENP8u02Rx2-0" />
@@ -827,6 +827,12 @@
         </mxCell>
         <mxCell id="87xKJNgesbzy7EBzRrtB-32" value="Substation &lt;br&gt;(110 / 6-20 kV)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontSize=14;fontColor=#33001A;fontStyle=1" vertex="1" parent="Ad43L_1lCyENP8u02Rx2-1">
           <mxGeometry x="289" y="535" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87xKJNgesbzy7EBzRrtB-33" value="DSO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontSize=15;fontColor=#33001A;fontStyle=1;direction=east;" vertex="1" parent="Ad43L_1lCyENP8u02Rx2-1">
+          <mxGeometry x="530" y="445" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87xKJNgesbzy7EBzRrtB-34" value="Commercial operator" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=default;fontSize=15;fontColor=#33001A;fontStyle=1;direction=east;" vertex="1" parent="Ad43L_1lCyENP8u02Rx2-1">
+          <mxGeometry x="810" y="430" width="188" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

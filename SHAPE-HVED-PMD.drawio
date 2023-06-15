@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T16:17:51.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="n4UHzX8Fg1RTu2mEk10i" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T16:27:00.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xOvPZV5ULSGr0ClHaXS-" version="21.4.0" type="github">
   <diagram name="Page-1" id="hhnrzE7MoxYHYfj6DHKl">
-    <mxGraphModel dx="830" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,13 +37,10 @@
         <mxCell id="ATrKAvhcQLNvLvAztBjA-4" value="&lt;b&gt;Relay protection terminal&lt;/b&gt; (+special report for PEMS, PMD)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="480" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ATrKAvhcQLNvLvAztBjA-8" value="Primary equipment + сигналы верхнего уровня" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="240" width="190" height="80" as="geometry" />
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-9" value="(3) High level signals (alert, info)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="340" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ATrKAvhcQLNvLvAztBjA-9" value="Сигналы верхнего уровня" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="350" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ATrKAvhcQLNvLvAztBjA-10" value="Неэлектрические параметры" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-10" value="(2) Non-electrical parameters (AirTemp, etc)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="410" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ATrKAvhcQLNvLvAztBjA-11" value="61850-8-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -57,6 +54,57 @@
         </mxCell>
         <mxCell id="ATrKAvhcQLNvLvAztBjA-16" value="SCADA" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-17" value="(1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="70" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-21" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-22" value="Non-electrical parameters" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="425" y="680" width="57.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-23" value="Alert and infor signal (PEMS, PMD self-monitoring + common signals)" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="440" y="740" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-24" value="Primary equipment" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="510" y="690" width="57.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-25" value="Relay protection" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="306.25" y="700" width="57.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-26" value="Power equipment monitoring" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="750" width="57.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-27" value="&lt;b&gt;PEMS, PMD&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="650" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-28" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="650" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-29" value="&lt;b&gt;SCADA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="660" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-30" value="Primary equipment" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="660" y="680" width="57.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-31" value="Non-electrical parameters" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="730" y="680" width="57.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-32" value="Alert and infor signal (PEMS, PMD self-monitoring + common signals)" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="670" y="740" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-33" value="Other parameters (not needed by PEMS and PMD)" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="830" y="715" width="57.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-35" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="410" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ATrKAvhcQLNvLvAztBjA-36" value="CIM converter" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="645" width="100" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

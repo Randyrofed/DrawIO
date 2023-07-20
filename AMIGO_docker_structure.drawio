@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T13:09:29.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="cySgo3_QynX2DKATabpC" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T13:24:01.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1p79cSYEfNZ22ZMKP8lq" version="21.6.3" type="github">
   <diagram name="Page-1" id="cbzBaKyIph1Sbvg5qICK">
     <mxGraphModel dx="3774" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="uTGGyNdRmKgwHeYQayd5-2" value="Linux VM" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=21.7;fontColor=#333333;align=right;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=VwG7SJPnVazq;" vertex="1" parent="1">
           <mxGeometry x="-985" y="695" width="302" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="uTGGyNdRmKgwHeYQayd5-3" value="сервер RTSoft (Препродакшн - среда функционального тестирования); промышленный компьютер (Продакшн)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=18.3;fontColor=#333333;align=left;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=NWNsLQBkYInX;" vertex="1" parent="1">
-          <mxGeometry x="-591" y="324" width="765" height="525" as="geometry" />
+        <mxCell id="uTGGyNdRmKgwHeYQayd5-3" value="&lt;b&gt;Сервер РТСофт / Промышленный компьютер&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=18.3;fontColor=#333333;align=right;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=NWNsLQBkYInX;" vertex="1" parent="1">
+          <mxGeometry x="-591" y="340" width="765" height="509" as="geometry" />
         </mxCell>
         <mxCell id="uTGGyNdRmKgwHeYQayd5-4" value="Astra Linux" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=21.7;fontColor=#333333;align=right;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=dXNsU.M60c~a;" vertex="1" parent="1">
           <mxGeometry x="-576" y="399" width="735" height="435" as="geometry" />
@@ -127,9 +127,6 @@
         <mxCell id="uTGGyNdRmKgwHeYQayd5-54" value="Terminal access" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#333333;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=2.3;lucidId=3_OsRgyrOZTw;" vertex="1" parent="1">
           <mxGeometry x="-68" y="123" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="uTGGyNdRmKgwHeYQayd5-55" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=3.8;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/2618a95f-a9f4-4bb2-a337-95f111c8070e/content;imageAspect=0;lucidId=XnG7TbDU_ruF;" vertex="1" parent="1">
-          <mxGeometry x="-306" y="349" width="32" height="32" as="geometry" />
-        </mxCell>
         <mxCell id="uTGGyNdRmKgwHeYQayd5-57" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;align=right;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=kvG7zU1Vbf7M;" vertex="1" parent="1">
           <mxGeometry x="-956.5" y="731" width="165" height="87" as="geometry" />
         </mxCell>
@@ -167,6 +164,14 @@
         <mxCell id="uTGGyNdRmKgwHeYQayd5-81" value="Modbus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uTGGyNdRmKgwHeYQayd5-80">
           <mxGeometry x="0.569" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTGGyNdRmKgwHeYQayd5-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.579;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uTGGyNdRmKgwHeYQayd5-67" target="uTGGyNdRmKgwHeYQayd5-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTGGyNdRmKgwHeYQayd5-97" value="GET&lt;br style=&quot;border-color: var(--border-color); font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;информация&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 7px;&quot;&gt;&lt;span style=&quot;font-size: 7px;&quot;&gt;о снижении&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="uTGGyNdRmKgwHeYQayd5-95">
+          <mxGeometry x="0.7898" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="63" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uTGGyNdRmKgwHeYQayd5-67" value="container" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#333333;align=right;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=MUG7.P1o7qeu;" vertex="1" parent="1">
@@ -209,6 +214,20 @@
         </mxCell>
         <mxCell id="uTGGyNdRmKgwHeYQayd5-85" value="При ПНР, происходит отключение контейнера amigo-simulator и осуществляется подключение реальных сигналов" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-192" y="941" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uTGGyNdRmKgwHeYQayd5-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.341;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uTGGyNdRmKgwHeYQayd5-89" target="uTGGyNdRmKgwHeYQayd5-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTGGyNdRmKgwHeYQayd5-94" value="POST&amp;nbsp;&lt;br style=&quot;font-size: 7px;&quot;&gt;данные по &lt;br style=&quot;font-size: 7px;&quot;&gt;потреблению" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=7;" vertex="1" connectable="0" parent="uTGGyNdRmKgwHeYQayd5-93">
+          <mxGeometry x="-0.7193" y="1" relative="1" as="geometry">
+            <mxPoint x="-5" y="59" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTGGyNdRmKgwHeYQayd5-89" value="&lt;b&gt;API Amigo&amp;nbsp; Aggregaror&lt;br&gt;&lt;/b&gt;Тест -http://192.168.10.64/api/&lt;br&gt;Прод - https://amigo-aggregator.rtsoft.ru/api/" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#333333;align=right;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=h8OsGK1Ffm4r;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="230" width="165" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="uTGGyNdRmKgwHeYQayd5-91" value="Сбор данных о потреблении&lt;br style=&quot;font-size: 7px;&quot;&gt;Формирование макетов 80020" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=7;fontColor=#333333;align=center;spacing=3.8;strokeOpacity=0;fillOpacity=0;fillColor=#ffffff;strokeWidth=2.3;lucidId=3_OsRgyrOZTw;" vertex="1" parent="1">
+          <mxGeometry x="-205" y="244.25" width="122" height="18.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

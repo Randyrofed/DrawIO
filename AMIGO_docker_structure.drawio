@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-20T13:24:01.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="1p79cSYEfNZ22ZMKP8lq" version="21.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-20T13:48:55.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="MVsUgbL220vWItR0-zK4" version="21.6.3" type="github">
   <diagram name="Page-1" id="cbzBaKyIph1Sbvg5qICK">
-    <mxGraphModel dx="3774" dy="1068" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4140" dy="1167" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="uTGGyNdRmKgwHeYQayd5-8" value="container&lt;br&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;AMIGO Frontend + nginx&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;http://192.168.10.6/amigo/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;frontend-lelenergo&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#333333;align=right;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=.ZNsZsHuAFoC;" vertex="1" parent="1">
           <mxGeometry x="-137" y="610" width="165" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="uTGGyNdRmKgwHeYQayd5-10" value="containers" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#333333;align=right;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=F0Nsuqpqv4tn;" vertex="1" parent="1">
+        <mxCell id="uTGGyNdRmKgwHeYQayd5-10" value="containers&lt;br&gt;&lt;br&gt;Мониторинг hardware/software" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=11.7;fontColor=#333333;align=right;spacing=3.8;verticalAlign=top;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;lucidId=F0Nsuqpqv4tn;" vertex="1" parent="1">
           <mxGeometry x="-546" y="720" width="165" height="84" as="geometry" />
         </mxCell>
         <mxCell id="uTGGyNdRmKgwHeYQayd5-17" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=0;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;lucidId=BiOsZtZsSBIk;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uTGGyNdRmKgwHeYQayd5-8" target="uTGGyNdRmKgwHeYQayd5-19">
@@ -55,7 +55,7 @@
           <mxGeometry x="440" y="585" width="60" height="135" as="geometry" />
         </mxCell>
         <mxCell id="uTGGyNdRmKgwHeYQayd5-21" value="" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.app.lucidchart.com/images/5260f441-3e52-4a52-882c-b87c9dda6873/content;imageAspect=0;lucidId=BjOsG8vt3Nzm;" vertex="1" parent="1">
-          <mxGeometry x="-508.5" y="729" width="60" height="62" as="geometry" />
+          <mxGeometry x="-540" y="731" width="60" height="62" as="geometry" />
         </mxCell>
         <mxCell id="uTGGyNdRmKgwHeYQayd5-23" value="Monitoring web page" style="html=1;overflow=block;blockSpacing=1;align=center;whiteSpace=wrap;fontSize=13;fontStyle=1;spacing=0;strokeOpacity=100;fillOpacity=100;fillColor=#ffffff;strokeWidth=2.3;" vertex="1" parent="1">
           <mxGeometry x="-523.5" y="924" width="120" height="74" as="geometry" />

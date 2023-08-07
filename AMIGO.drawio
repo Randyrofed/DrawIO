@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T13:56:18.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="z5SD7N5Wa85ZfdrabBCb" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-07T13:58:03.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="fDTlB22W7rJWNmkVy0HC" version="21.6.6" type="github" pages="3">
   <diagram id="SlWCSXc2fECgTnz2ipEf" name="AMIGO Architecture">
     <mxGraphModel dx="1593" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GxzJ7yJFFQ2lSm_bhfC4" name="CBER">
-    <mxGraphModel dx="3134" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2847" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -950,6 +950,9 @@
         <mxCell id="iypUaIuf7W4S04uVEG1B-52" value="ВРУ НРУ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="800" y="34" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-99" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.412;entryY=1.144;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-53" target="iypUaIuf7W4S04uVEG1B-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-53" value="ВРУ ЗУ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="430" y="34" width="60" height="30" as="geometry" />
         </mxCell>
@@ -973,6 +976,15 @@
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-57" value="АСУ ВИС" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="840" y="61" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-60" target="iypUaIuf7W4S04uVEG1B-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="105" />
+              <mxPoint x="190" y="-292" />
+              <mxPoint x="400" y="-292" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-60" value="Биллинг-&lt;br&gt;система" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="410" y="65" width="120" height="80" as="geometry" />
@@ -1043,14 +1055,14 @@
             <mxPoint x="605" y="-350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-90" target="iypUaIuf7W4S04uVEG1B-49">
+        <mxCell id="iypUaIuf7W4S04uVEG1B-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-90" target="iypUaIuf7W4S04uVEG1B-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-90" target="iypUaIuf7W4S04uVEG1B-85">
+        <mxCell id="iypUaIuf7W4S04uVEG1B-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-90" target="iypUaIuf7W4S04uVEG1B-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-90" value="ПТК AMIGO EDGE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-290" width="125" height="20" as="geometry" />
+          <mxGeometry x="400" y="-300" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-93" target="iypUaIuf7W4S04uVEG1B-96">
           <mxGeometry relative="1" as="geometry" />
@@ -1060,6 +1072,9 @@
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-96" value="Сервер ввода/вывода ЦЭТ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="630" y="-660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-98" value="Нагрузка управляется через АСУ ВИС по заданным режимам" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="820" y="85" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

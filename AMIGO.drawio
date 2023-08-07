@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T14:37:09.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="8pyFpYJGYym0a8DJRBL1" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-07T14:38:37.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="HNz2Wu2Ljl5VFfPzQ7RQ" version="21.6.6" type="github" pages="3">
   <diagram id="SlWCSXc2fECgTnz2ipEf" name="AMIGO Architecture">
     <mxGraphModel dx="1593" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,10 +244,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GxzJ7yJFFQ2lSm_bhfC4" name="CBER">
-    <mxGraphModel dx="4940" dy="1263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4756" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IoOD5ROXj8z7GLVDGT2u-1" value="Уровень квартала" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;align=right;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="1259.5" width="1120" height="400.5" as="geometry" />
+        </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-123" value="Диспетчерская ЦЭТ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;align=right;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-630" y="970" width="460" height="180" as="geometry" />
         </mxCell>
@@ -796,19 +799,6 @@
         <mxCell id="iypUaIuf7W4S04uVEG1B-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-104" target="iypUaIuf7W4S04uVEG1B-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;jumpStyle=arc;startArrow=classic;startFill=1;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-104" target="iypUaIuf7W4S04uVEG1B-124">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-297" y="1450" />
-              <mxPoint x="-613" y="1450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-134" value="(1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iypUaIuf7W4S04uVEG1B-127">
-          <mxGeometry x="-0.1702" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-104" value="АСУ ВИС" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-340" y="1470" width="170" height="60" as="geometry" />
         </mxCell>
@@ -834,8 +824,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-161" value="?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iypUaIuf7W4S04uVEG1B-160">
-          <mxGeometry x="-0.0793" relative="1" as="geometry">
+        <mxCell id="IoOD5ROXj8z7GLVDGT2u-2" value="(1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iypUaIuf7W4S04uVEG1B-160">
+          <mxGeometry x="0.1384" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -944,7 +934,7 @@
         <mxCell id="iypUaIuf7W4S04uVEG1B-128" value="АРМ Диспетчера (ЭЭ)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-500" y="980" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-141" value="(1) - данные по работе оборудования НРУ и ЦТП&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;(2) - данные по ЭС, транслируемые в ЦЭТ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;(3) - данные для работы системы управления AMIGO EDGE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;(4) - данные приборов учета для расчета экономических параметров&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="iypUaIuf7W4S04uVEG1B-141" value="(1) - данные по работе оборудования НРУ и ЦТП, сигналы на переключение АСУ ВИС в аварийный режим работы&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;(2) - данные по ЭС, транслируемые в ЦЭТ&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;(3) - данные для работы системы управления AMIGO EDGE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;(4) - данные приборов учета для расчета экономических параметров&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-970" y="1684.5" width="550" height="65.5" as="geometry" />
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-143" target="iypUaIuf7W4S04uVEG1B-124">
@@ -998,9 +988,6 @@
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-162" value="Шлюз для агрегации данных" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-310" y="1315" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IoOD5ROXj8z7GLVDGT2u-1" value="Уровень квартала" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;align=right;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1250" y="1259.5" width="1120" height="400.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

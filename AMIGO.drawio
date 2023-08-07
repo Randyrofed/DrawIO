@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T14:11:44.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="-5ab1XEmz8Jb4APWybVw" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-07T14:13:59.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="mzdLwHZdq8Ba6CpK_RHF" version="21.6.6" type="github" pages="3">
   <diagram id="SlWCSXc2fECgTnz2ipEf" name="AMIGO Architecture">
     <mxGraphModel dx="1593" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GxzJ7yJFFQ2lSm_bhfC4" name="CBER">
-    <mxGraphModel dx="3134" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2689" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1082,6 +1082,11 @@
         <mxCell id="iypUaIuf7W4S04uVEG1B-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-102" target="iypUaIuf7W4S04uVEG1B-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-135" value="Modbus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iypUaIuf7W4S04uVEG1B-108">
+          <mxGeometry x="-0.5958" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-102" value="АСУ СНЭЭ/ФЭМ" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-625" y="1560" width="170" height="60" as="geometry" />
         </mxCell>
@@ -1096,6 +1101,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-134" value="(1)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iypUaIuf7W4S04uVEG1B-127">
+          <mxGeometry x="-0.1702" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-104" value="АСУ ВИС" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-340" y="1470" width="170" height="60" as="geometry" />
         </mxCell>
@@ -1108,11 +1118,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-139" value="(2)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iypUaIuf7W4S04uVEG1B-114">
+          <mxGeometry x="0.1318" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-105" value="АСУ ТП ЭС2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-815" y="1470" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-106" target="iypUaIuf7W4S04uVEG1B-105">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-136" value="Modbus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iypUaIuf7W4S04uVEG1B-109">
+          <mxGeometry x="0.4572" y="1" relative="1" as="geometry">
+            <mxPoint x="1" y="6" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-106" value="Автоматические выключатели" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-815" y="1560" width="170" height="60" as="geometry" />
@@ -1120,11 +1140,21 @@
         <mxCell id="iypUaIuf7W4S04uVEG1B-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-107" target="iypUaIuf7W4S04uVEG1B-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-138" value="OCPP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iypUaIuf7W4S04uVEG1B-110">
+          <mxGeometry x="0.038" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-107" value="Зарядные устройства (ЗУ)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="1560" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-111" target="iypUaIuf7W4S04uVEG1B-105">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-137" value="Протоколы IOT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iypUaIuf7W4S04uVEG1B-112">
+          <mxGeometry x="-0.0396" y="1" relative="1" as="geometry">
+            <mxPoint x="26" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-111" value="EDGE-устройства общедомовых нагрузок" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="1560" width="170" height="60" as="geometry" />

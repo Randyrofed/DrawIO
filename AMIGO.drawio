@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T14:07:06.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="NzepS0BhH0kaP024j2_E" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-07T14:08:17.732Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="CML2sOUZasbyF4UDqGfK" version="21.6.6" type="github" pages="3">
   <diagram id="SlWCSXc2fECgTnz2ipEf" name="AMIGO Architecture">
     <mxGraphModel dx="1593" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GxzJ7yJFFQ2lSm_bhfC4" name="CBER">
-    <mxGraphModel dx="2895" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2762" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1085,10 +1085,18 @@
         <mxCell id="iypUaIuf7W4S04uVEG1B-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-104" target="iypUaIuf7W4S04uVEG1B-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;jumpStyle=arc;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-104" target="iypUaIuf7W4S04uVEG1B-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-297" y="1450" />
+              <mxPoint x="-613" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-104" value="АСУ ВИС" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-340" y="1470" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-105" target="iypUaIuf7W4S04uVEG1B-113">
+        <mxCell id="iypUaIuf7W4S04uVEG1B-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-105" target="iypUaIuf7W4S04uVEG1B-113">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-730" y="1410" />
@@ -1130,11 +1138,15 @@
         <mxCell id="iypUaIuf7W4S04uVEG1B-116" value="Оборудование энергоцентра и ЦТП" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-340" y="1560" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-118" target="iypUaIuf7W4S04uVEG1B-105">
+        <mxCell id="iypUaIuf7W4S04uVEG1B-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-118" target="iypUaIuf7W4S04uVEG1B-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-118" target="iypUaIuf7W4S04uVEG1B-124">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iypUaIuf7W4S04uVEG1B-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-118" target="iypUaIuf7W4S04uVEG1B-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-920" y="1330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-118" value="Биллинг-&lt;br&gt;система ЗУ" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="-980" y="1350" width="120" height="80" as="geometry" />
@@ -1144,6 +1156,14 @@
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-123" value="Диспетчерская ЦЭТ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;align=right;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-630" y="970" width="460" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.406;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="iypUaIuf7W4S04uVEG1B-124" target="iypUaIuf7W4S04uVEG1B-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-697" y="1380" />
+              <mxPoint x="-746" y="1380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-124" value="AMIGO EDGE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-740" y="1300" width="170" height="60" as="geometry" />

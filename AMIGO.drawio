@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T13:41:33.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="hmrw8hOqZ-tXYjqiFkhv" version="21.6.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-07T13:43:34.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="X-40rJu87eGdj0Mo8vs-" version="21.6.6" type="github" pages="3">
   <diagram id="SlWCSXc2fECgTnz2ipEf" name="AMIGO Architecture">
     <mxGraphModel dx="1593" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,7 +244,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GxzJ7yJFFQ2lSm_bhfC4" name="CBER">
-    <mxGraphModel dx="3749" dy="2183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2569" dy="1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -950,7 +950,7 @@
         <mxCell id="iypUaIuf7W4S04uVEG1B-55" value="ВРУ-6&lt;br&gt;(БКФН)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="280" y="34" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iypUaIuf7W4S04uVEG1B-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iypUaIuf7W4S04uVEG1B-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="350" y="-149" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-57" value="АСУ ВИС" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -958,6 +958,15 @@
         </mxCell>
         <mxCell id="iypUaIuf7W4S04uVEG1B-60" value="Биллинг-&lt;br&gt;система" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="410" y="65" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-61" value="АСДУ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-194" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-64" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="426" y="-149" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iypUaIuf7W4S04uVEG1B-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="492" y="-149" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

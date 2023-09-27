@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T11:02:12.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="drMh06u2qYUM1IsDV2I6" version="21.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-27T11:02:35.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ImnKsIlyKcHhP3e79XQO" version="21.8.2" type="github" pages="2">
   <diagram name="Page-1" id="ZyMO6e3TnWATeuTPRcdV">
     <mxGraphModel dx="1900" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -459,6 +459,9 @@
         </mxCell>
         <mxCell id="DssEfrftJAehQ6PEnOUV-28" value="Кейс ИТС" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
           <mxGeometry x="540" y="1180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DssEfrftJAehQ6PEnOUV-30" value="БД РЗА/расчет уставок" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
+          <mxGeometry x="80" y="1180" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

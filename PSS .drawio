@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T11:09:23.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0wj-UEXQYxaGLY8iPnWj" version="21.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-27T11:10:20.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="rs3DCmn2vhJlxvFBc_MQ" version="21.8.2" type="github" pages="2">
   <diagram name="Page-1" id="ZyMO6e3TnWATeuTPRcdV">
     <mxGraphModel dx="1900" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,12 +190,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Для Лабиринта" id="WRbypke1fM3zqj6FpLhx">
-    <mxGraphModel dx="2017" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="k5iMaffngfscGlH9nwCM-0" />
         <mxCell id="k5iMaffngfscGlH9nwCM-1" parent="k5iMaffngfscGlH9nwCM-0" />
         <mxCell id="DssEfrftJAehQ6PEnOUV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
-          <mxGeometry x="-70" y="1340" width="300" height="110" as="geometry" />
+          <mxGeometry x="-70" y="1340" width="750" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DssEfrftJAehQ6PEnOUV-2" value="ПТК AMIGO EDGE" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
           <mxGeometry x="80" y="1400" width="130" height="30" as="geometry" />
@@ -219,7 +219,7 @@
           <mxGeometry x="397.5" y="1400" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DssEfrftJAehQ6PEnOUV-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
-          <mxGeometry x="-70" y="1230" width="300" height="110" as="geometry" />
+          <mxGeometry x="-70" y="1230" width="750" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DssEfrftJAehQ6PEnOUV-11" value="Уровень &lt;br&gt;подстанции" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontStyle=1" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
           <mxGeometry x="-60" y="1270" width="150" height="30" as="geometry" />
@@ -240,7 +240,7 @@
           <mxGeometry x="397.5" y="1290" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DssEfrftJAehQ6PEnOUV-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
-          <mxGeometry x="-70" y="1120" width="300" height="110" as="geometry" />
+          <mxGeometry x="-70" y="1120" width="750" height="110" as="geometry" />
         </mxCell>
         <mxCell id="DssEfrftJAehQ6PEnOUV-18" value="Уровень &lt;br&gt;распредсетей/ЦУС" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontStyle=1" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
           <mxGeometry x="-60" y="1160" width="150" height="30" as="geometry" />

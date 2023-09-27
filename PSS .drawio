@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T11:02:35.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ImnKsIlyKcHhP3e79XQO" version="21.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-27T11:03:35.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Ze2XOlqFvpGP-R-Ud3OF" version="21.8.2" type="github" pages="2">
   <diagram name="Page-1" id="ZyMO6e3TnWATeuTPRcdV">
     <mxGraphModel dx="1900" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Для Лабиринта" id="WRbypke1fM3zqj6FpLhx">
-    <mxGraphModel dx="2017" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2163" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="k5iMaffngfscGlH9nwCM-0" />
         <mxCell id="k5iMaffngfscGlH9nwCM-1" parent="k5iMaffngfscGlH9nwCM-0" />

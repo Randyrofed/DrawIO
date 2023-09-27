@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T11:06:31.232Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="NZntvRzJztJF6owmM3U6" version="21.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-27T11:07:49.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mstaDVa6MTjnODG8O6-r" version="21.8.2" type="github" pages="2">
   <diagram name="Page-1" id="ZyMO6e3TnWATeuTPRcdV">
     <mxGraphModel dx="1900" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Для Лабиринта" id="WRbypke1fM3zqj6FpLhx">
-    <mxGraphModel dx="1955" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2465" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="k5iMaffngfscGlH9nwCM-0" />
         <mxCell id="k5iMaffngfscGlH9nwCM-1" parent="k5iMaffngfscGlH9nwCM-0" />
@@ -462,6 +462,18 @@
         </mxCell>
         <mxCell id="DssEfrftJAehQ6PEnOUV-30" value="БД РЗА/расчет уставок" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
           <mxGeometry x="80" y="1180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DssEfrftJAehQ6PEnOUV-33" value="Решения РТСофт" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontStyle=1" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
+          <mxGeometry x="20" y="1080" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DssEfrftJAehQ6PEnOUV-34" value="Партнеры" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontStyle=1" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
+          <mxGeometry x="350" y="1080" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DssEfrftJAehQ6PEnOUV-35" value="Кейсы" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontStyle=1" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
+          <mxGeometry x="575" y="1080" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DssEfrftJAehQ6PEnOUV-36" value="Встраиваемое оборудование (РТСофт - ВС)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
+          <mxGeometry x="-70" y="1450" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

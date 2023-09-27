@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-27T11:18:35.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="tSYQbe_KnB479O-OUZ74" version="21.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-27T11:21:11.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="shVhp-ph-hYtMiOe5suh" version="21.8.2" type="github" pages="2">
   <diagram name="Page-1" id="ZyMO6e3TnWATeuTPRcdV">
     <mxGraphModel dx="1900" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Для Лабиринта" id="WRbypke1fM3zqj6FpLhx">
-    <mxGraphModel dx="1550" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="k5iMaffngfscGlH9nwCM-0" />
         <mxCell id="k5iMaffngfscGlH9nwCM-1" parent="k5iMaffngfscGlH9nwCM-0" />
@@ -245,7 +245,7 @@
         <mxCell id="DssEfrftJAehQ6PEnOUV-18" value="Уровень &lt;br&gt;распредсетей/ЦУС" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;fontStyle=1" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
           <mxGeometry x="-60" y="1160" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DssEfrftJAehQ6PEnOUV-19" value="Создание CIM-моделей" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
+        <mxCell id="DssEfrftJAehQ6PEnOUV-19" value="Создание цифровых моделей (CIM based)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">
           <mxGeometry x="80" y="1130" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DssEfrftJAehQ6PEnOUV-20" value="SEDMAX" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="k5iMaffngfscGlH9nwCM-1">

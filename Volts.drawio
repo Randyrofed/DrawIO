@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T06:28:31.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xiKr81aSldruhDb_44oF" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T06:24:38.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aiyQQ-Nfwd8tV6XKVrO-" version="22.0.6" type="github">
   <diagram name="Page-1" id="Qwv7uJTL_FpW3jfT5c1Q">
-    <mxGraphModel dx="1774" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1563" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
         <mxCell id="PQJejVP98IKGqgHeFBoo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="PQJejVP98IKGqgHeFBoo-7" target="PQJejVP98IKGqgHeFBoo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PQJejVP98IKGqgHeFBoo-37" value="Протокол???" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PQJejVP98IKGqgHeFBoo-14" vertex="1" connectable="0">
+        <mxCell id="PQJejVP98IKGqgHeFBoo-37" value="Протокол" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PQJejVP98IKGqgHeFBoo-14" vertex="1" connectable="0">
           <mxGeometry x="0.1441" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -70,6 +70,11 @@
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.434;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PQJejVP98IKGqgHeFBoo-9" target="PQJejVP98IKGqgHeFBoo-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-2" value="104 протокол" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PQJejVP98IKGqgHeFBoo-24">
+          <mxGeometry x="0.1679" y="-1" relative="1" as="geometry">
+            <mxPoint x="50" y="-8" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.347;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.231;entryY=0.804;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PQJejVP98IKGqgHeFBoo-9" target="PQJejVP98IKGqgHeFBoo-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -131,10 +136,32 @@
           <mxGeometry y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-35" value="Контейнер СНЭЭ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="710" width="110" height="30" as="geometry" />
+          <mxGeometry x="630" y="800" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-36" value="GSM-канал связи (осн.)(рез.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="710" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-3" value="Пирамида" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="546.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-4" value="Почтовый сервер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="486.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Ke0dHRgDIPxI2c3PWkCL-5" target="PQJejVP98IKGqgHeFBoo-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="700" />
+              <mxPoint x="500" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-7" value="VPN-туннель" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ke0dHRgDIPxI2c3PWkCL-6">
+          <mxGeometry x="-0.0247" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-5" value="AMIGO FLEX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

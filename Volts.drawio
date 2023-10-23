@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T06:52:59.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mlubqttfaMW7UDe_MuTW" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T06:58:55.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="gfPyF-M3UVzZPk93lSzf" version="22.0.6" type="github">
   <diagram name="Page-1" id="Qwv7uJTL_FpW3jfT5c1Q">
-    <mxGraphModel dx="1563" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,12 +54,12 @@
         <mxCell id="PQJejVP98IKGqgHeFBoo-6" value="Собственные нужды, учет электроэнергии" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQJejVP98IKGqgHeFBoo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="PQJejVP98IKGqgHeFBoo-7" target="PQJejVP98IKGqgHeFBoo-3" edge="1">
+        <mxCell id="PQJejVP98IKGqgHeFBoo-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="PQJejVP98IKGqgHeFBoo-7" target="PQJejVP98IKGqgHeFBoo-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PQJejVP98IKGqgHeFBoo-37" value="Протокол" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PQJejVP98IKGqgHeFBoo-14" vertex="1" connectable="0">
+        <mxCell id="PQJejVP98IKGqgHeFBoo-37" value="Обмен данными&lt;br style=&quot;font-size: 9px;&quot;&gt;с оборудованием (МИП на &lt;font color=&quot;#ff3333&quot;&gt;Т-1, Т-2, &lt;br style=&quot;font-size: 9px;&quot;&gt;данные о состоянии &lt;br style=&quot;font-size: 9px;&quot;&gt;выключателей (В-0,4 Т-1,2 и МСВ)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" parent="PQJejVP98IKGqgHeFBoo-14" vertex="1" connectable="0">
           <mxGeometry x="0.1441" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="16" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-7" value="ТП-1410&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -124,8 +124,8 @@
         <mxCell id="PQJejVP98IKGqgHeFBoo-30" value="АРМ диспетчера&lt;br&gt;(интерфейс ПТК)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PQJejVP98IKGqgHeFBoo-35" value="Контейнер СНЭЭ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="800" width="110" height="30" as="geometry" />
+        <mxCell id="PQJejVP98IKGqgHeFBoo-35" value="Контейнер СНЭЭ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="304" y="740" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQJejVP98IKGqgHeFBoo-36" value="GSM-канал связи (осн.)(рез.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="710" width="110" height="30" as="geometry" />
@@ -149,27 +149,52 @@
             <mxPoint y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-4" value="Почта компании агрегатора управления спросом (ООО &quot;Энергосбытхолдин)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-4" value="Почта компании агрегатора управления спросом (ООО &quot;Энергосбытхолдинг)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ke0dHRgDIPxI2c3PWkCL-5" target="PQJejVP98IKGqgHeFBoo-8">
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="Ke0dHRgDIPxI2c3PWkCL-5" target="PQJejVP98IKGqgHeFBoo-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="690" />
-              <mxPoint x="500" y="690" />
+              <mxPoint x="500" y="720" />
+              <mxPoint x="500" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-7" value="REST API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ke0dHRgDIPxI2c3PWkCL-6">
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-7" value="REST API&lt;br&gt;данные о событиях&lt;br&gt;ЦЗСП" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ke0dHRgDIPxI2c3PWkCL-6">
           <mxGeometry x="-0.0247" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ke0dHRgDIPxI2c3PWkCL-5" value="Amigo FLEX&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(https://amigo-aggregator.rtsoft.ru/&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;aggregator)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-10" value="Энергосбытхолдинг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="Ke0dHRgDIPxI2c3PWkCL-10" target="PQJejVP98IKGqgHeFBoo-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="720" />
+              <mxPoint x="530" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-16" value="VPN-туннель" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ke0dHRgDIPxI2c3PWkCL-15">
+          <mxGeometry x="-0.0454" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-10" value="АРМ для ввода данных и формирования отчетов о работе системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-17" value="ETH0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="470" y="806" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-18" value="ETH1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="480" y="760" width="60" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-19" value="Вариант 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-20" value="Вариант 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="30" y="540" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

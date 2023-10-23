@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T06:24:38.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aiyQQ-Nfwd8tV6XKVrO-" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T06:48:34.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Q0I-02zqvrezvACqMDoK" version="22.0.6" type="github">
   <diagram name="Page-1" id="Qwv7uJTL_FpW3jfT5c1Q">
     <mxGraphModel dx="1563" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,8 +141,14 @@
         <mxCell id="PQJejVP98IKGqgHeFBoo-36" value="GSM-канал связи (осн.)(рез.)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="710" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ke0dHRgDIPxI2c3PWkCL-3" target="Ke0dHRgDIPxI2c3PWkCL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ke0dHRgDIPxI2c3PWkCL-3" value="Пирамида" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="546.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ke0dHRgDIPxI2c3PWkCL-4" target="Ke0dHRgDIPxI2c3PWkCL-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ke0dHRgDIPxI2c3PWkCL-4" value="Почтовый сервер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="486.5" width="120" height="60" as="geometry" />
@@ -162,6 +168,9 @@
         </mxCell>
         <mxCell id="Ke0dHRgDIPxI2c3PWkCL-5" value="AMIGO FLEX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ke0dHRgDIPxI2c3PWkCL-10" value="Энергосбытхолдинг" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

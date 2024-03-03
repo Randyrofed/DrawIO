@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T11:53:35.089Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MPRTbJZ6AxR4qQy5Pu_H" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T11:54:18.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6rI3xHsJRyWMFigT2D2j" version="24.0.0" type="github">
   <diagram name="Page-1" id="PnmOUn5xEe6CV6xflAFT">
-    <mxGraphModel dx="2415" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1392" pageHeight="676" math="0" shadow="0">
+    <mxGraphModel dx="3949" dy="1369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1392" pageHeight="676" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,10 +20,10 @@
           <mxGeometry x="657.81" y="850" width="137.19" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1bHGRflVSp7qtRa0Prbn-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.xbook.ru/upload/iblock/1e1/604/original_unembossed.jpg;rotation=-180;" parent="1" vertex="1">
-          <mxGeometry x="529" y="30" width="148" height="116.05" as="geometry" />
+          <mxGeometry x="960" y="30" width="148" height="116.05" as="geometry" />
         </mxCell>
         <mxCell id="1bHGRflVSp7qtRa0Prbn-9" value="Сервер" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="259" width="260" height="80" as="geometry" />
+          <mxGeometry x="-200" y="552" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z2G9IEOryL6Eq3hqh6p6-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://support.wirenboard.com/uploads/default/original/2X/e/ef492af068843d5e38b68a66e0d1af70763dc6a4.png;" vertex="1" parent="1">
           <mxGeometry x="218.01" y="1260" width="1184.98" height="710" as="geometry" />
@@ -139,7 +139,12 @@
           </mxCell>
         </UserObject>
         <mxCell id="z2G9IEOryL6Eq3hqh6p6-1411" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="z2G9IEOryL6Eq3hqh6p6-33" target="1bHGRflVSp7qtRa0Prbn-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="190" />
+              <mxPoint x="1034" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <UserObject label="" tags="Background" id="z2G9IEOryL6Eq3hqh6p6-33">
           <mxCell style="vsdxID=24;fillColor=#E6E6E6;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#1a1a18;strokeWidth=2;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">

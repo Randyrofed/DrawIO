@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T16:55:59.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="P8gLJNOThgW3RuIeAREe" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T17:51:03.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ksVPRNl92N9-rPfHn3va" version="24.0.0" type="github">
   <diagram name="Page-1" id="PnmOUn5xEe6CV6xflAFT">
-    <mxGraphModel dx="3498" dy="1127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1392" pageHeight="676" math="0" shadow="0">
+    <mxGraphModel dx="3182" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1392" pageHeight="676" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6390,7 +6390,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z2G9IEOryL6Eq3hqh6p6-1320" value="Температурный датчик" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1093.5" y="444.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1108" y="436.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z2G9IEOryL6Eq3hqh6p6-1321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.477;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="z2G9IEOryL6Eq3hqh6p6-1171" target="z2G9IEOryL6Eq3hqh6p6-1283">
           <mxGeometry relative="1" as="geometry">
@@ -6418,7 +6418,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="z2G9IEOryL6Eq3hqh6p6-1364" value="Датчик солнечной радиации" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1174.5" y="445.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1174.5" y="445.5" width="60" height="14.5" as="geometry" />
         </mxCell>
         <UserObject label="" tags="Background" id="z2G9IEOryL6Eq3hqh6p6-1365">
           <mxCell style="vsdxID=1153;fillColor=#98d0ae;gradientColor=none;shape=stencil(nZBRDoQgDERP03+WHsHFe5iISyOCQdT19kIaIxq//Jtp3zTpAFaTaUYNUkwx+F6v1EYD+AUpyRkdKCYFqACrzgf9C352LfuxyWRWg1/yhT/nRE5IsZWuZtCSK8CPeI0e/hF+jV7AJM4PO7KWCyr390bSiNtEtQM=);strokeColor=#1a1a18;spacingTop=-3;spacingBottom=-3;spacingLeft=-3;spacingRight=-3;points=[];labelBackgroundColor=none;rounded=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T10:47:45.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Wlu2U1qKTAEXVe-As773" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T10:47:54.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="eArrt2cs2lrGVh6Ofyb2" version="24.0.1" type="github">
   <diagram name="Page-1" id="PnmOUn5xEe6CV6xflAFT">
     <mxGraphModel dx="6536" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1392" pageHeight="676" math="0" shadow="0">
       <root>
@@ -7372,8 +7372,8 @@
         <mxCell id="NS7naCPZPGMe_HMbfw2P-77" value="Витая пара - питание и связь" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1001" y="970" width="117.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NS7naCPZPGMe_HMbfw2P-78" value="ПТК Skycam" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1036" y="120" width="121" height="30" as="geometry" />
+        <mxCell id="NS7naCPZPGMe_HMbfw2P-78" value="ПТК Skycam" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="960" y="120" width="197" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

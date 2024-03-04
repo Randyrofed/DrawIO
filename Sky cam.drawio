@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T10:46:49.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FWKblHiCEuz1VxXEN9gf" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T10:47:45.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Wlu2U1qKTAEXVe-As773" version="24.0.1" type="github">
   <diagram name="Page-1" id="PnmOUn5xEe6CV6xflAFT">
-    <mxGraphModel dx="7822" dy="2395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1392" pageHeight="676" math="0" shadow="0">
+    <mxGraphModel dx="6536" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1392" pageHeight="676" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7262,7 +7262,7 @@
             <mxPoint x="430.0000000000009" y="666" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NS7naCPZPGMe_HMbfw2P-9" value="Клеммные зажимы (6 шт)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NS7naCPZPGMe_HMbfw2P-9" value="Клеммные зажимы (6 шт)&lt;div&gt;+ Разводка на обогрев и температурный датчик&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="349.5" y="742.44" width="161" height="291.12" as="geometry" />
         </mxCell>
         <mxCell id="NS7naCPZPGMe_HMbfw2P-12" value="Температурный датчик" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T09:21:02.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LgSvHMbuRVeRf4b1o3qm" version="24.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-03T09:22:08.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ndq7aD6NS89jNYDULVCt" version="24.1.0" type="github" pages="7">
   <diagram name="Page-1" id="7j1ngm0fmsIptOdnjCNE">
     <mxGraphModel dx="4226" dy="3296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -951,7 +951,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Для НТС" id="A1k5fsGf0aIBWNMVu8Fv">
-    <mxGraphModel dx="1029" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1470" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qK4bAM-8Emt23Bo2osq4-0" />
         <mxCell id="qK4bAM-8Emt23Bo2osq4-1" parent="qK4bAM-8Emt23Bo2osq4-0" />
@@ -1001,7 +1001,7 @@
         <mxCell id="RzJvGxL64q5IKBYUm5Ca-6" value="Трансформаторные подстанции" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qK4bAM-8Emt23Bo2osq4-1">
           <mxGeometry x="774" y="889.75" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RzJvGxL64q5IKBYUm5Ca-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="qK4bAM-8Emt23Bo2osq4-1" source="RzJvGxL64q5IKBYUm5Ca-8" target="qK4bAM-8Emt23Bo2osq4-43">
+        <mxCell id="RzJvGxL64q5IKBYUm5Ca-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="qK4bAM-8Emt23Bo2osq4-1" source="RzJvGxL64q5IKBYUm5Ca-8" target="qK4bAM-8Emt23Bo2osq4-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RzJvGxL64q5IKBYUm5Ca-20" value="GSM/Wi-Fi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RzJvGxL64q5IKBYUm5Ca-9">
